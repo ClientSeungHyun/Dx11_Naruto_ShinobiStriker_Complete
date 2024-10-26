@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\j\Desktop\Naruto_ShinobiStriker\Engine\Bin\Engine.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\j\Desktop\Naruto_ShinobiStriker\Engine\Bin\Shader_Cell.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\j\Desktop\Naruto_ShinobiStriker\Engine\Bin\Shader_Deferred.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\j\Desktop\Naruto_ShinobiStriker\Engine\Bin\Shader_Distortion.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\j\Desktop\Naruto_ShinobiStriker\Engine\Bin\Shader_EffectDeferred.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\j\Desktop\Naruto_ShinobiStriker\Engine\Bin\Shader_MotionTrail.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

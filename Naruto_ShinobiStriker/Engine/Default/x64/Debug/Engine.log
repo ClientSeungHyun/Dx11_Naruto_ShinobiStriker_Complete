@@ -1,0 +1,18 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\j\Desktop\Naruto_ShinobiStriker\Engine\Bin\Shader_Cell.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\j\Desktop\Naruto_ShinobiStriker\Engine\Bin\Shader_Deferred.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\j\Desktop\Naruto_ShinobiStriker\Engine\Bin\Shader_Distortion.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\j\Desktop\Naruto_ShinobiStriker\Engine\Bin\Shader_EffectDeferred.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\j\Desktop\Naruto_ShinobiStriker\Engine\Bin\Shader_MotionTrail.cso
+  unity_22YU0RZXO7ZAEU4E.cpp
+     ..\Bin\Engine.lib 라이브러리 및 ..\Bin\Engine.exp 개체를 생성하고 있습니다.
+  Engine.vcxproj -> C:\Users\j\Desktop\Naruto_ShinobiStriker\Engine\Bin\Engine.dll

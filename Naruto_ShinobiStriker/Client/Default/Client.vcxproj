@@ -1,0 +1,722 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{02C9AE80-95A1-4337-B9D1-3346442914EB}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>Client</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+    <EnableUnitySupport>true</EnableUnitySupport>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <EnableUnitySupport>true</EnableUnitySupport>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>..\Bin\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>..\Bin\</OutDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>../../EngineSDK/Inc/;../Public/;../Default/</AdditionalIncludeDirectories>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>../../EngineSDK/lib/</AdditionalLibraryDirectories>
+      <AdditionalDependencies>Engine.lib;fmod_vc.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>Full</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>../../EngineSDK/Inc/;../Public/;../Default/</AdditionalIncludeDirectories>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>../../EngineSDK/lib/</AdditionalLibraryDirectories>
+      <AdditionalDependencies>Engine.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Public\Amateras.h" />
+    <ClInclude Include="..\Public\AreaCircle.h" />
+    <ClInclude Include="..\public\BackGround.h" />
+    <ClInclude Include="..\Public\Background_Custom.h" />
+    <ClInclude Include="..\Public\Background_Loading.h" />
+    <ClInclude Include="..\Public\Background_Title.h" />
+    <ClInclude Include="..\Public\BladeSlash.h" />
+    <ClInclude Include="..\Public\BodyLower_Player.h" />
+    <ClInclude Include="..\Public\BodyOnce_Player.h" />
+    <ClInclude Include="..\Public\BodyUpper_Player.h" />
+    <ClInclude Include="..\Public\Boss_Kurama.h" />
+    <ClInclude Include="..\Public\Boss_Susanoo.h" />
+    <ClInclude Include="..\Public\ChidoriTrail.h" />
+    <ClInclude Include="..\Public\Chidori_Center.h" />
+    <ClInclude Include="..\Public\ColliderObject.h" />
+    <ClInclude Include="..\Public\Collider_MonsterAttack.h" />
+    <ClInclude Include="..\Public\Collider_PlayerAttack.h" />
+    <ClInclude Include="..\Public\Custom_Button.h" />
+    <ClInclude Include="..\Public\Custom_Head.h" />
+    <ClInclude Include="..\Public\Effect_Distortion.h" />
+    <ClInclude Include="..\Public\Effect_GroundBreak.h" />
+    <ClInclude Include="..\Public\Effect_RasenkoHit.h" />
+    <ClInclude Include="..\Public\Effect_RasenkoStar.h" />
+    <ClInclude Include="..\Public\Effect_Tsukuyomi01.h" />
+    <ClInclude Include="..\Public\Effect_TypeZero.h" />
+    <ClInclude Include="..\Public\Effect_TypeZeroCircle.h" />
+    <ClInclude Include="..\Public\FoxBlast.h" />
+    <ClInclude Include="..\Public\FoxExplosionSphere.h" />
+    <ClInclude Include="..\Public\FoxSphere.h" />
+    <ClInclude Include="..\Public\Kunai_Minato.h" />
+    <ClInclude Include="..\Public\Particle_FireBall.h" />
+    <ClInclude Include="..\Public\Particle_Misuok.h" />
+    <ClInclude Include="..\Public\Player_MotionTrail.h" />
+    <ClInclude Include="..\Public\Shadow_Custom.h" />
+    <ClInclude Include="..\Public\Effect_TextureScale.h" />
+    <ClInclude Include="..\Public\ExplosionSphere.h" />
+    <ClInclude Include="..\Public\Fire05.h" />
+    <ClInclude Include="..\Public\FireBall.h" />
+    <ClInclude Include="..\Public\FireBall_Effect.h" />
+    <ClInclude Include="..\Public\FireBall_FlySmoke.h" />
+    <ClInclude Include="..\Public\FootTrail.h" />
+    <ClInclude Include="..\Public\ExplosionCircle.h" />
+    <ClInclude Include="..\Public\JumpGuide.h" />
+    <ClInclude Include="..\Public\Kirin.h" />
+    <ClInclude Include="..\Public\Level_Chunin.h" />
+    <ClInclude Include="..\Public\Level_Konoha.h" />
+    <ClInclude Include="..\Public\Lightning.h" />
+    <ClInclude Include="..\Public\MassiveRasengan_Circle.h" />
+    <ClInclude Include="..\Public\MassiveRasengan_Sphere.h" />
+    <ClInclude Include="..\Public\ObjectPool.h" />
+    <ClInclude Include="..\Public\Particle_Hit.h" />
+    <ClInclude Include="..\Public\Particle_Snow.h" />
+    <ClInclude Include="..\Public\Particle_Up.h" />
+    <ClInclude Include="..\Public\RasenganRing.h" />
+    <ClInclude Include="..\Public\Rasengan_Center.h" />
+    <ClInclude Include="..\Public\Rasengan_CreateSmoke.h" />
+    <ClInclude Include="..\Public\Rasengan_RunSmoke.h" />
+    <ClInclude Include="..\Public\RasenShuriken_Blade.h" />
+    <ClInclude Include="..\Public\RasenShuriken_BladeFly.h" />
+    <ClInclude Include="..\Public\RasenShuriken_BladeLine.h" />
+    <ClInclude Include="..\Public\RasenShuriken_Circle.h" />
+    <ClInclude Include="..\Public\RasenShuriken_Sphere.h" />
+    <ClInclude Include="..\Public\Sasuke_Next.h" />
+    <ClInclude Include="..\Public\Skill.h" />
+    <ClInclude Include="..\Public\Skill_Amateras.h" />
+    <ClInclude Include="..\Public\Skill_ChangeWood.h" />
+    <ClInclude Include="..\Public\Skill_Chidori.h" />
+    <ClInclude Include="..\Public\Skill_FireBall.h" />
+    <ClInclude Include="..\Public\Skill_GroundSlash.h" />
+    <ClInclude Include="..\Public\Skill_Kirin.h" />
+    <ClInclude Include="..\Public\Skill_KuramaRasengan.h" />
+    <ClInclude Include="..\Public\Skill_MassiveRasengan.h" />
+    <ClInclude Include="..\Public\Skill_Rasengan.h" />
+    <ClInclude Include="..\Public\Skill_RasenShuriken.h" />
+    <ClInclude Include="..\Public\Skill_Roar.h" />
+    <ClInclude Include="..\Public\Skill_Susanoo.h" />
+    <ClInclude Include="..\Public\Skill_Tsukuyomi.h" />
+    <ClInclude Include="..\Public\Sky.h" />
+    <ClInclude Include="..\Public\Smoke11.h" />
+    <ClInclude Include="..\Public\SmokeRing.h" />
+    <ClInclude Include="..\Public\State_Custom_AerialChidori_Attack.h" />
+    <ClInclude Include="..\Public\State_Custom_AerialChidori_Charge.h" />
+    <ClInclude Include="..\Public\State_Custom_AerialChidori_Run.h" />
+    <ClInclude Include="..\Public\State_Custom_AerialFireBall.h" />
+    <ClInclude Include="..\Public\State_Custom_Amateras.h" />
+    <ClInclude Include="..\Public\State_Custom_BackBlow.h" />
+    <ClInclude Include="..\Public\State_Custom_Chidori_Attack.h" />
+    <ClInclude Include="..\Public\State_Custom_Chidori_Charge.h" />
+    <ClInclude Include="..\Public\State_Custom_Chidori_Run.h" />
+    <ClInclude Include="..\Public\State_Custom_DoubleHandPunch.h" />
+    <ClInclude Include="..\Public\State_Custom_DoubleSlash.h" />
+    <ClInclude Include="..\Public\State_Custom_FireBall.h" />
+    <ClInclude Include="..\Public\State_Custom_GroundPunch.h" />
+    <ClInclude Include="..\Public\State_Custom_HIt1.h" />
+    <ClInclude Include="..\Public\State_Custom_HIt2.h" />
+    <ClInclude Include="..\Public\State_Custom_HItSpin.h" />
+    <ClInclude Include="..\Public\State_Custom_Kirin.h" />
+    <ClInclude Include="..\Public\State_Custom_MassiveRasengan.h" />
+    <ClInclude Include="..\Public\State_Custom_PunchLeft.h" />
+    <ClInclude Include="..\Public\State_Custom_PunchRight.h" />
+    <ClInclude Include="..\Public\State_Custom_Raijin.h" />
+    <ClInclude Include="..\Public\State_Custom_Rasengun_Attack.h" />
+    <ClInclude Include="..\Public\State_Custom_Rasengun_Charge.h" />
+    <ClInclude Include="..\Public\State_Custom_Rasengun_Run.h" />
+    <ClInclude Include="..\Public\State_Custom_Rasenko.h" />
+    <ClInclude Include="..\Public\State_Custom_RisingKick.h" />
+    <ClInclude Include="..\Public\State_Custom_Slash.h" />
+    <ClInclude Include="..\Public\State_Kurama_Fall.h" />
+    <ClInclude Include="..\Public\State_Kurama_Jump.h" />
+    <ClInclude Include="..\Public\State_Kurama_SpecialAttack.h" />
+    <ClInclude Include="..\Public\State_Custom_Susanoo.h" />
+    <ClInclude Include="..\Public\State_Custom_Tsukuyomi.h" />
+    <ClInclude Include="..\Public\State_Custom_TurnKick.h" />
+    <ClInclude Include="..\Public\State_Custom_TypeZeroAttack.h" />
+    <ClInclude Include="..\Public\State_Custom_WindMill.h" />
+    <ClInclude Include="..\Public\State_Custom_WireDash.h" />
+    <ClInclude Include="..\Public\State_Custom_WireReady.h" />
+    <ClInclude Include="..\Public\State_Kurama_AerialBlast.h" />
+    <ClInclude Include="..\Public\State_Kurama_Appear.h" />
+    <ClInclude Include="..\Public\CustomCamera.h" />
+    <ClInclude Include="..\Public\CustomPannel.h" />
+    <ClInclude Include="..\Public\Effect.h" />
+    <ClInclude Include="..\Public\Face_Player.h" />
+    <ClInclude Include="..\Public\FreeCamera.h" />
+    <ClInclude Include="..\Public\Client_Defines.h" />
+    <ClInclude Include="..\Public\Head_Player.h" />
+    <ClInclude Include="..\Public\Level_Custom.h" />
+    <ClInclude Include="..\Public\Level_Ame.h" />
+    <ClInclude Include="..\Public\Level_Loading.h" />
+    <ClInclude Include="..\Public\Level_Logo.h" />
+    <ClInclude Include="..\public\Loader.h" />
+    <ClInclude Include="..\Public\MainApp.h" />
+    <ClInclude Include="..\Public\Monster.h" />
+    <ClInclude Include="..\Public\NonAnimModel.h" />
+    <ClInclude Include="..\Public\Player.h" />
+    <ClInclude Include="..\Public\PlayerCamera.h" />
+    <ClInclude Include="..\Public\Player_Custom.h" />
+    <ClInclude Include="..\Public\Player_Naruto.h" />
+    <ClInclude Include="..\Public\Shadow_Naruto.h" />
+    <ClInclude Include="..\Public\State_Custom_ChakraJump.h" />
+    <ClInclude Include="..\Public\State_Custom_DoubleJump.h" />
+    <ClInclude Include="..\Public\State_Custom_FallFront.h" />
+    <ClInclude Include="..\Public\State_Custom_Idle.h" />
+    <ClInclude Include="..\Public\State_Custom_Jump.h" />
+    <ClInclude Include="..\Public\State_Custom_Land.h" />
+    <ClInclude Include="..\Public\State_Custom_Run.h" />
+    <ClInclude Include="..\Public\State_Custom_RunEnd.h" />
+    <ClInclude Include="..\Public\State_Custom_WallAttach.h" />
+    <ClInclude Include="..\Public\State_Kurama_Attack1.h" />
+    <ClInclude Include="..\Public\State_Kurama_Attack2.h" />
+    <ClInclude Include="..\Public\State_Kurama_Bite.h" />
+    <ClInclude Include="..\Public\State_Kurama_ChanceTime.h" />
+    <ClInclude Include="..\Public\State_Kurama_Die.h" />
+    <ClInclude Include="..\Public\State_Kurama_FoxBlast.h" />
+    <ClInclude Include="..\Public\State_Kurama_Heal.h" />
+    <ClInclude Include="..\Public\State_Kurama_Hit.h" />
+    <ClInclude Include="..\Public\State_Kurama_Idle.h" />
+    <ClInclude Include="..\Public\State_Kurama_JumpCrush.h" />
+    <ClInclude Include="..\Public\State_Kurama_Leave.h" />
+    <ClInclude Include="..\Public\State_Kurama_Roar.h" />
+    <ClInclude Include="..\Public\State_Custom_AerialRasengun_Attack.h" />
+    <ClInclude Include="..\Public\State_Kurama_ThreeBlast.h" />
+    <ClInclude Include="..\Public\State_Naruto_AerialRasengun_Attack.h" />
+    <ClInclude Include="..\Public\State_Custom_AerialRasengun_Charge.h" />
+    <ClInclude Include="..\Public\State_Naruto_AerialRasengun_Charge.h" />
+    <ClInclude Include="..\Public\State_Custom_AerialRasengun_Run.h" />
+    <ClInclude Include="..\Public\State_Naruto_AerialRasengun_Run.h" />
+    <ClInclude Include="..\Public\State_Custom_AerialRasenShuriken.h" />
+    <ClInclude Include="..\Public\State_Naruto_AerialRasenShuriken.h" />
+    <ClInclude Include="..\Public\State_Naruto_ChakraJump.h" />
+    <ClInclude Include="..\Public\State_Custom_RasenShuriken.h" />
+    <ClInclude Include="..\Public\State_Player_Dash.h" />
+    <ClInclude Include="..\Public\State_Naruto_DoubleJump.h" />
+    <ClInclude Include="..\Public\State_Naruto_DoubleKick.h" />
+    <ClInclude Include="..\Public\State_Naruto_ElbowStrike.h" />
+    <ClInclude Include="..\Public\State_Naruto_FallFront.h" />
+    <ClInclude Include="..\Public\State_Naruto_Idle.h" />
+    <ClInclude Include="..\Public\State_Naruto_Jump.h" />
+    <ClInclude Include="..\Public\State_Naruto_Land.h" />
+    <ClInclude Include="..\Public\State_Naruto_PunchLeft.h" />
+    <ClInclude Include="..\Public\State_Naruto_PunchRight.h" />
+    <ClInclude Include="..\Public\State_Naruto_Rasengun_Attack.h" />
+    <ClInclude Include="..\Public\State_Naruto_Rasengun_Charge.h" />
+    <ClInclude Include="..\Public\State_Naruto_Rasengun_Run.h" />
+    <ClInclude Include="..\Public\State_Naruto_RasenShuriken.h" />
+    <ClInclude Include="..\Public\State_Naruto_Run.h" />
+    <ClInclude Include="..\Public\State_Naruto_RunEnd.h" />
+    <ClInclude Include="..\Public\State_Naruto_WallAttach.h" />
+    <ClInclude Include="..\Public\State_Susanoo_Appear.h" />
+    <ClInclude Include="..\Public\State_Susanoo_ChanceTime.h" />
+    <ClInclude Include="..\Public\State_Susanoo_Die.h" />
+    <ClInclude Include="..\Public\State_Susanoo_DoubleSlash.h" />
+    <ClInclude Include="..\Public\State_Susanoo_GroundPunch.h" />
+    <ClInclude Include="..\Public\State_Susanoo_GroundSlash.h" />
+    <ClInclude Include="..\Public\State_Susanoo_Hit.h" />
+    <ClInclude Include="..\Public\State_Susanoo_Idle.h" />
+    <ClInclude Include="..\Public\State_Susanoo_Rising.h" />
+    <ClInclude Include="..\Public\State_Susanoo_Roar.h" />
+    <ClInclude Include="..\Public\State_TenTail_Appear.h" />
+    <ClInclude Include="..\Public\State_TenTail_Attack.h" />
+    <ClInclude Include="..\Public\State_TenTail_Chase.h" />
+    <ClInclude Include="..\Public\State_TenTail_Dash.h" />
+    <ClInclude Include="..\Public\State_TenTail_Idle.h" />
+    <ClInclude Include="..\Public\State_WhiteZestu_BackDash.h" />
+    <ClInclude Include="..\Public\State_WhiteZetsu_Appear.h" />
+    <ClInclude Include="..\Public\State_WhiteZetsu_Attack1.h" />
+    <ClInclude Include="..\Public\State_WhiteZetsu_AttackFar.h" />
+    <ClInclude Include="..\Public\State_WhiteZetsu_Chase.h" />
+    <ClInclude Include="..\Public\State_WhiteZetsu_Die.h" />
+    <ClInclude Include="..\Public\State_WhiteZetsu_Fall.h" />
+    <ClInclude Include="..\Public\State_WhiteZetsu_FlyAway.h" />
+    <ClInclude Include="..\Public\State_WhiteZetsu_FlyGround.h" />
+    <ClInclude Include="..\Public\State_WhiteZetsu_GetUp.h" />
+    <ClInclude Include="..\Public\State_WhiteZetsu_Groggy.h" />
+    <ClInclude Include="..\Public\State_WhiteZetsu_Hit1.h" />
+    <ClInclude Include="..\Public\State_WhiteZetsu_Hit2.h" />
+    <ClInclude Include="..\Public\State_WhiteZetsu_HitDown.h" />
+    <ClInclude Include="..\Public\State_WhiteZetsu_Idle.h" />
+    <ClInclude Include="..\Public\SusanooBlade.h" />
+    <ClInclude Include="..\Public\TenTail.h" />
+    <ClInclude Include="..\Public\Terrain.h" />
+    <ClInclude Include="..\Public\Title_Logo.h" />
+    <ClInclude Include="..\Public\UI_BossHP.h" />
+    <ClInclude Include="..\Public\UI_BossTarget.h" />
+    <ClInclude Include="..\Public\UI_ConfirmButton.h" />
+    <ClInclude Include="..\Public\UI_HitNum.h" />
+    <ClInclude Include="..\Public\UI_MonsterHP.h" />
+    <ClInclude Include="..\Public\UI_PlayerHP.h" />
+    <ClInclude Include="..\Public\UI_PlayerSkill.h" />
+    <ClInclude Include="..\Public\UI_PlayerSP.h" />
+    <ClInclude Include="..\Public\UI_Target.h" />
+    <ClInclude Include="..\Public\UI_TextWindow.h" />
+    <ClInclude Include="..\Public\UI_TitleButton.h" />
+    <ClInclude Include="..\Public\WhiteZetsu.h" />
+    <ClInclude Include="..\Public\WireTrail.h" />
+    <ClInclude Include="..\Public\Wood.h" />
+    <ClInclude Include="Client.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Private\Amateras.cpp" />
+    <ClCompile Include="..\Private\AreaCircle.cpp" />
+    <ClCompile Include="..\private\BackGround.cpp" />
+    <ClCompile Include="..\Private\Background_Custom.cpp" />
+    <ClCompile Include="..\Private\Background_Loading.cpp" />
+    <ClCompile Include="..\Private\Background_Title.cpp" />
+    <ClCompile Include="..\Private\BladeSlash.cpp" />
+    <ClCompile Include="..\Private\BodyLower_Player.cpp" />
+    <ClCompile Include="..\Private\BodyOnce_Player.cpp" />
+    <ClCompile Include="..\Private\BodyUpper_Player.cpp" />
+    <ClCompile Include="..\Private\Boss_Kurama.cpp" />
+    <ClCompile Include="..\Private\Boss_Susanoo.cpp" />
+    <ClCompile Include="..\Private\ChidoriTrail.cpp" />
+    <ClCompile Include="..\Private\Chidori_Center.cpp" />
+    <ClCompile Include="..\Private\ColliderObject.cpp" />
+    <ClCompile Include="..\Private\Collider_MonsterAttack.cpp" />
+    <ClCompile Include="..\Private\Collider_PlayerAttack.cpp" />
+    <ClCompile Include="..\Private\CustomCamera.cpp" />
+    <ClCompile Include="..\Private\CustomPannel.cpp" />
+    <ClCompile Include="..\Private\Custom_Button.cpp" />
+    <ClCompile Include="..\Private\Custom_Head.cpp" />
+    <ClCompile Include="..\Private\Effect_Distortion.cpp" />
+    <ClCompile Include="..\Private\Effect_GroundBreak.cpp" />
+    <ClCompile Include="..\Private\Effect_RasenkoHit.cpp" />
+    <ClCompile Include="..\Private\Effect_RasenkoStar.cpp" />
+    <ClCompile Include="..\Private\Effect_Tsukuyomi01.cpp" />
+    <ClCompile Include="..\Private\Effect_TypeZero.cpp" />
+    <ClCompile Include="..\Private\Effect_TypeZeroCircle.cpp" />
+    <ClCompile Include="..\Private\FoxBlast.cpp" />
+    <ClCompile Include="..\Private\FoxExplosionSphere.cpp" />
+    <ClCompile Include="..\Private\FoxSphere.cpp" />
+    <ClCompile Include="..\Private\Kunai_Minato.cpp" />
+    <ClCompile Include="..\Private\Particle_FireBall.cpp" />
+    <ClCompile Include="..\Private\Particle_Misuok.cpp" />
+    <ClCompile Include="..\Private\Player_MotionTrail.cpp" />
+    <ClCompile Include="..\Private\Shadow_Custom.cpp" />
+    <ClCompile Include="..\Private\Effect.cpp" />
+    <ClCompile Include="..\Private\Effect_TextureScale.cpp" />
+    <ClCompile Include="..\Private\ExplosionSphere.cpp" />
+    <ClCompile Include="..\Private\Face_Player.cpp" />
+    <ClCompile Include="..\Private\Fire05.cpp" />
+    <ClCompile Include="..\Private\FireBall.cpp" />
+    <ClCompile Include="..\Private\FireBall_Effect.cpp" />
+    <ClCompile Include="..\Private\FireBall_FlySmoke.cpp" />
+    <ClCompile Include="..\Private\FootTrail.cpp" />
+    <ClCompile Include="..\Private\FreeCamera.cpp" />
+    <ClCompile Include="..\Private\ExplosionCircle.cpp" />
+    <ClCompile Include="..\Private\Head_Player.cpp" />
+    <ClCompile Include="..\Private\JumpGuide.cpp" />
+    <ClCompile Include="..\Private\Kirin.cpp" />
+    <ClCompile Include="..\Private\Level_Chunin.cpp" />
+    <ClCompile Include="..\Private\Level_Custom.cpp" />
+    <ClCompile Include="..\Private\Level_Ame.cpp" />
+    <ClCompile Include="..\Private\Level_Konoha.cpp" />
+    <ClCompile Include="..\Private\Level_Loading.cpp" />
+    <ClCompile Include="..\Private\Level_Logo.cpp" />
+    <ClCompile Include="..\Private\Lightning.cpp" />
+    <ClCompile Include="..\private\Loader.cpp" />
+    <ClCompile Include="..\Private\MainApp.cpp" />
+    <ClCompile Include="..\Private\MassiveRasengan_Circle.cpp" />
+    <ClCompile Include="..\Private\MassiveRasengan_Sphere.cpp" />
+    <ClCompile Include="..\Private\Monster.cpp" />
+    <ClCompile Include="..\Private\NonAnimModel.cpp" />
+    <ClCompile Include="..\Private\Particle_Hit.cpp" />
+    <ClCompile Include="..\Private\Particle_Snow.cpp" />
+    <ClCompile Include="..\Private\Particle_Up.cpp" />
+    <ClCompile Include="..\Private\Player.cpp" />
+    <ClCompile Include="..\Private\PlayerCamera.cpp" />
+    <ClCompile Include="..\Private\Player_Custom.cpp" />
+    <ClCompile Include="..\Private\Player_Naruto.cpp" />
+    <ClCompile Include="..\Private\RasenganRing.cpp" />
+    <ClCompile Include="..\Private\Rasengan_Center.cpp" />
+    <ClCompile Include="..\Private\Rasengan_CreateSmoke.cpp" />
+    <ClCompile Include="..\Private\Rasengan_RunSmoke.cpp" />
+    <ClCompile Include="..\Private\RasenShuriken_Blade.cpp" />
+    <ClCompile Include="..\Private\RasenShuriken_BladeFly.cpp" />
+    <ClCompile Include="..\Private\RasenShuriken_BladeLine.cpp" />
+    <ClCompile Include="..\Private\RasenShuriken_Circle.cpp" />
+    <ClCompile Include="..\Private\RasenShuriken_Sphere.cpp" />
+    <ClCompile Include="..\Private\Sasuke_Next.cpp" />
+    <ClCompile Include="..\Private\Shadow_Naruto.cpp" />
+    <ClCompile Include="..\Private\Skill.cpp" />
+    <ClCompile Include="..\Private\Skill_Amateras.cpp" />
+    <ClCompile Include="..\Private\Skill_ChangeWood.cpp" />
+    <ClCompile Include="..\Private\Skill_Chidori.cpp" />
+    <ClCompile Include="..\Private\Skill_FireBall.cpp" />
+    <ClCompile Include="..\Private\Skill_GroundSlash.cpp" />
+    <ClCompile Include="..\Private\Skill_Kirin.cpp" />
+    <ClCompile Include="..\Private\Skill_KuramaRasengan.cpp" />
+    <ClCompile Include="..\Private\Skill_MassiveRasengan.cpp" />
+    <ClCompile Include="..\Private\Skill_Rasengan.cpp" />
+    <ClCompile Include="..\Private\Skill_RasenShuriken.cpp" />
+    <ClCompile Include="..\Private\Skill_Roar.cpp" />
+    <ClCompile Include="..\Private\Skill_Susanoo.cpp" />
+    <ClCompile Include="..\Private\Skill_Tsukuyomi.cpp" />
+    <ClCompile Include="..\Private\Sky.cpp" />
+    <ClCompile Include="..\Private\Smoke11.cpp" />
+    <ClCompile Include="..\Private\SmokeRing.cpp" />
+    <ClCompile Include="..\Private\State_Custom_AerialChidori_Attack.cpp" />
+    <ClCompile Include="..\Private\State_Custom_AerialChidori_Charge.cpp" />
+    <ClCompile Include="..\Private\State_Custom_AerialChidori_Run.cpp" />
+    <ClCompile Include="..\Private\State_Custom_AerialFireBall.cpp" />
+    <ClCompile Include="..\Private\State_Custom_Amateras.cpp" />
+    <ClCompile Include="..\Private\State_Custom_BackBlow.cpp" />
+    <ClCompile Include="..\Private\State_Custom_ChakraJump.cpp" />
+    <ClCompile Include="..\Private\State_Custom_Chidori_Attack.cpp" />
+    <ClCompile Include="..\Private\State_Custom_Chidori_Charge.cpp" />
+    <ClCompile Include="..\Private\State_Custom_Chidori_Run.cpp" />
+    <ClCompile Include="..\Private\State_Custom_DoubleHandPunch.cpp" />
+    <ClCompile Include="..\Private\State_Custom_DoubleJump.cpp" />
+    <ClCompile Include="..\Private\State_Custom_DoubleSlash.cpp" />
+    <ClCompile Include="..\Private\State_Custom_FallFront.cpp" />
+    <ClCompile Include="..\Private\State_Custom_FireBall.cpp" />
+    <ClCompile Include="..\Private\State_Custom_GroundPunch.cpp" />
+    <ClCompile Include="..\Private\State_Custom_HIt1.cpp" />
+    <ClCompile Include="..\Private\State_Custom_HIt2.cpp" />
+    <ClCompile Include="..\Private\State_Custom_HItSpin.cpp" />
+    <ClCompile Include="..\Private\State_Custom_Idle.cpp" />
+    <ClCompile Include="..\Private\State_Custom_Jump.cpp" />
+    <ClCompile Include="..\Private\State_Custom_Kirin.cpp" />
+    <ClCompile Include="..\Private\State_Custom_Land.cpp" />
+    <ClCompile Include="..\Private\State_Custom_MassiveRasengan.cpp" />
+    <ClCompile Include="..\Private\State_Custom_PunchLeft.cpp" />
+    <ClCompile Include="..\Private\State_Custom_PunchRight.cpp" />
+    <ClCompile Include="..\Private\State_Custom_Raijin.cpp" />
+    <ClCompile Include="..\Private\State_Custom_Rasengun_Attack.cpp" />
+    <ClCompile Include="..\Private\State_Custom_Rasengun_Charge.cpp" />
+    <ClCompile Include="..\Private\State_Custom_Rasengun_Run.cpp" />
+    <ClCompile Include="..\Private\State_Custom_Rasenko.cpp" />
+    <ClCompile Include="..\Private\State_Custom_RisingKick.cpp" />
+    <ClCompile Include="..\Private\State_Custom_Run.cpp" />
+    <ClCompile Include="..\Private\State_Custom_Slash.cpp" />
+    <ClCompile Include="..\Private\State_Kurama_Fall.cpp" />
+    <ClCompile Include="..\Private\State_Kurama_Jump.cpp" />
+    <ClCompile Include="..\Private\State_Kurama_SpecialAttack.cpp" />
+    <ClCompile Include="..\Private\State_Custom_Susanoo.cpp" />
+    <ClCompile Include="..\Private\State_Custom_Tsukuyomi.cpp" />
+    <ClCompile Include="..\Private\State_Custom_TurnKick.cpp" />
+    <ClCompile Include="..\Private\State_Custom_TypeZeroAttack.cpp" />
+    <ClCompile Include="..\Private\State_Custom_WallAttach.cpp" />
+    <ClCompile Include="..\Private\State_Custom_WindMill.cpp" />
+    <ClCompile Include="..\Private\State_Custom_WireDash.cpp" />
+    <ClCompile Include="..\Private\State_Custom_WireReady.cpp" />
+    <ClCompile Include="..\Private\State_Kurama_AerialBlast.cpp" />
+    <ClCompile Include="..\Private\State_Kurama_Appear.cpp" />
+    <ClCompile Include="..\Private\State_Kurama_Attack1.cpp" />
+    <ClCompile Include="..\Private\State_Kurama_Attack2.cpp" />
+    <ClCompile Include="..\Private\State_Kurama_Bite.cpp" />
+    <ClCompile Include="..\Private\State_Kurama_ChanceTime.cpp" />
+    <ClCompile Include="..\Private\State_Kurama_Die.cpp" />
+    <ClCompile Include="..\Private\State_Kurama_FoxBlast.cpp" />
+    <ClCompile Include="..\Private\State_Kurama_Heal.cpp" />
+    <ClCompile Include="..\Private\State_Kurama_Hit.cpp" />
+    <ClCompile Include="..\Private\State_Kurama_Idle.cpp" />
+    <ClCompile Include="..\Private\State_Kurama_JumpCrush.cpp" />
+    <ClCompile Include="..\Private\State_Kurama_Leave.cpp" />
+    <ClCompile Include="..\Private\State_Kurama_Roar.cpp" />
+    <ClCompile Include="..\Private\State_Custom_AerialRasengun_Attack.cpp" />
+    <ClCompile Include="..\Private\State_Kurama_ThreeBlast.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_AerialRasengun_Attack.cpp" />
+    <ClCompile Include="..\Private\State_Custom_AerialRasengun_Charge.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_AerialRasengun_Charge.cpp" />
+    <ClCompile Include="..\Private\State_Custom_AerialRasengun_Run.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_AerialRasengun_Run.cpp" />
+    <ClCompile Include="..\Private\State_Custom_AerialRasenShuriken.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_AerialRasenShuriken.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_ChakraJump.cpp" />
+    <ClCompile Include="..\Private\State_Custom_RasenShuriken.cpp" />
+    <ClCompile Include="..\Private\State_Player_Dash.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_DoubleJump.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_DoubleKick.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_ElbowStrike.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_FallFront.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_Idle.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_Jump.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_Land.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_PunchLeft.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_PunchRight.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_Rasengun_Attack.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_Rasengun_Charge.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_Rasengun_Run.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_RasenShuriken.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_Run.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_RunEnd.cpp" />
+    <ClCompile Include="..\Private\State_Naruto_WallAttach.cpp" />
+    <ClCompile Include="..\Private\State_Custom_RunEnd.cpp" />
+    <ClCompile Include="..\Private\State_Susanoo_Appear.cpp" />
+    <ClCompile Include="..\Private\State_Susanoo_ChanceTime.cpp" />
+    <ClCompile Include="..\Private\State_Susanoo_Die.cpp" />
+    <ClCompile Include="..\Private\State_Susanoo_DoubleSlash.cpp" />
+    <ClCompile Include="..\Private\State_Susanoo_GroundPunch.cpp" />
+    <ClCompile Include="..\Private\State_Susanoo_GroundSlash.cpp" />
+    <ClCompile Include="..\Private\State_Susanoo_Hit.cpp" />
+    <ClCompile Include="..\Private\State_Susanoo_Idle.cpp" />
+    <ClCompile Include="..\Private\State_Susanoo_Rising.cpp" />
+    <ClCompile Include="..\Private\State_Susanoo_Roar.cpp" />
+    <ClCompile Include="..\Private\State_TenTail_Appear.cpp" />
+    <ClCompile Include="..\Private\State_TenTail_Attack.cpp" />
+    <ClCompile Include="..\Private\State_TenTail_Chase.cpp" />
+    <ClCompile Include="..\Private\State_TenTail_Dash.cpp" />
+    <ClCompile Include="..\Private\State_TenTail_Idle.cpp" />
+    <ClCompile Include="..\Private\State_WhiteZestu_BackDash.cpp" />
+    <ClCompile Include="..\Private\State_WhiteZetsu_Appear.cpp" />
+    <ClCompile Include="..\Private\State_WhiteZetsu_Attack1.cpp" />
+    <ClCompile Include="..\Private\State_WhiteZetsu_AttackFar.cpp" />
+    <ClCompile Include="..\Private\State_WhiteZetsu_Chase.cpp" />
+    <ClCompile Include="..\Private\State_WhiteZetsu_Die.cpp" />
+    <ClCompile Include="..\Private\State_WhiteZetsu_Fall.cpp" />
+    <ClCompile Include="..\Private\State_WhiteZetsu_FlyAway.cpp" />
+    <ClCompile Include="..\Private\State_WhiteZetsu_FlyGround.cpp" />
+    <ClCompile Include="..\Private\State_WhiteZetsu_GetUp.cpp" />
+    <ClCompile Include="..\Private\State_WhiteZetsu_Groggy.cpp" />
+    <ClCompile Include="..\Private\State_WhiteZetsu_Hit1.cpp" />
+    <ClCompile Include="..\Private\State_WhiteZetsu_Hit2.cpp" />
+    <ClCompile Include="..\Private\State_WhiteZetsu_HitDown.cpp" />
+    <ClCompile Include="..\Private\State_WhiteZetsu_Idle.cpp" />
+    <ClCompile Include="..\Private\SusanooBlade.cpp" />
+    <ClCompile Include="..\Private\TenTail.cpp" />
+    <ClCompile Include="..\Private\Terrain.cpp" />
+    <ClCompile Include="..\Private\Title_Logo.cpp" />
+    <ClCompile Include="..\Private\UI_BossHP.cpp" />
+    <ClCompile Include="..\Private\UI_BossTarget.cpp" />
+    <ClCompile Include="..\Private\UI_ConfirmButton.cpp" />
+    <ClCompile Include="..\Private\UI_HitNum.cpp" />
+    <ClCompile Include="..\Private\UI_MonsterHP.cpp" />
+    <ClCompile Include="..\Private\UI_PlayerSkill.cpp" />
+    <ClCompile Include="..\Private\UI_PlayerSP.cpp" />
+    <ClCompile Include="..\Private\UI_Target.cpp" />
+    <ClCompile Include="..\Private\UI_TextWindow.cpp" />
+    <ClCompile Include="..\Private\UI_TitleButton.cpp" />
+    <ClCompile Include="..\Private\WhiteZetsu.cpp" />
+    <ClCompile Include="..\Private\WireTrail.cpp" />
+    <ClCompile Include="..\Private\Wood.cpp" />
+    <ClCompile Include="..\Public\UI_PlayerHP.cpp" />
+    <ClCompile Include="Client.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Client.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Client.ico" />
+    <Image Include="small.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_Cell.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_Effect.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">5.0</ShaderModel>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_Effect_Texture.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">5.0</ShaderModel>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxAnimModel.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">5.0</ShaderModel>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxCubeTex.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">5.0</ShaderModel>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxModel.hlsl">
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">5.0</ShaderModel>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Effect</ShaderType>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxNorTex.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">5.0</ShaderModel>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxPointInstance.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">5.0</ShaderModel>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxPosTex.hlsl">
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">5.0</ShaderModel>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Effect</ShaderType>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxRectInstance.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">5.0</ShaderModel>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxTrailInstance.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">5.0</ShaderModel>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

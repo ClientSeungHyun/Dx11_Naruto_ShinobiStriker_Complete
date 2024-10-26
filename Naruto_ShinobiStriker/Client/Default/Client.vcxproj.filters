@@ -1,0 +1,2297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="99.Defines">
+      <UniqueIdentifier>{fb79177f-6af2-42b8-a50b-bbc3b63e3f72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.MainApp">
+      <UniqueIdentifier>{36ddfabb-8bb7-40c9-a17f-c7b97483a7fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Levels">
+      <UniqueIdentifier>{f44a7a5e-dc7a-460e-9e7e-389f947c35ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Levels\Logo">
+      <UniqueIdentifier>{bfceb82a-607f-4756-925e-dbf78b769e31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Levels\GamePlay">
+      <UniqueIdentifier>{496bfdc0-36c4-4ae4-a032-6e701acb2b32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Levels\Loading">
+      <UniqueIdentifier>{5826f108-d734-4b34-a4f6-11a528a309a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Levels\Loading\Loader">
+      <UniqueIdentifier>{91d96f38-b5f2-4ed1-a4ee-a6224c0c3cf0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects">
+      <UniqueIdentifier>{bd09e51d-766a-4343-ad6c-b0e50d2d43cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\00.BackGround">
+      <UniqueIdentifier>{21287f1c-586b-4a97-90d2-9e630f240bae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98.Default">
+      <UniqueIdentifier>{4d9edaa0-3df0-42f3-8df9-280f1ae7af4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97.ShaderFiles">
+      <UniqueIdentifier>{d67a0dbc-f9dd-4c82-9afc-67f9a0ca9a91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\01.Terrain">
+      <UniqueIdentifier>{2ab5ffc4-f04e-4245-a69c-f43b79706f01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\99.Camera">
+      <UniqueIdentifier>{98707949-c62a-4e9f-ab5a-f72b9ef89a1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State">
+      <UniqueIdentifier>{928459ee-b954-4696-8ab4-3516ab1edb38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\99.Camera\FreeCamera">
+      <UniqueIdentifier>{05a171e3-c008-41b2-9277-5ad0af5ee2e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\99.Camera\PlayerCamera">
+      <UniqueIdentifier>{aa9c3c7d-7c7d-45e4-a686-4417fcf97d43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player">
+      <UniqueIdentifier>{eb96d1ff-93e2-461b-a8f3-07c113df7ab2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster">
+      <UniqueIdentifier>{905ee433-a56d-48ca-be23-e653fa91d383}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster\WhiteZetsu">
+      <UniqueIdentifier>{d72b0cee-afb5-404f-8c3e-c1cc8c35b329}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster\WhiteZetsu\Appear">
+      <UniqueIdentifier>{46ffac0f-db2c-4f88-92ef-83ff08047e8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster\WhiteZetsu\Idle">
+      <UniqueIdentifier>{80a1411c-668d-42dd-aa84-82f3f2a5cf96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster\WhiteZetsu\Chase">
+      <UniqueIdentifier>{78f85e81-9e54-4792-a025-69075f6e0388}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster\WhiteZetsu\Attack">
+      <UniqueIdentifier>{fb78db04-066f-48e3-aa5b-e97aea8b78a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Levels\Custom">
+      <UniqueIdentifier>{9b49f028-95eb-4746-9ab2-553ede578a08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\99.Camera\CustomCamera">
+      <UniqueIdentifier>{9c4005f8-d1c1-4b07-a2c2-c014546a4eb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster\WhiteZetsu\Hit">
+      <UniqueIdentifier>{fbaf6154-59e6-4801-96d1-242cd632ab32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster\WhiteZetsu\Fall">
+      <UniqueIdentifier>{ddda2712-d40a-40ec-862c-443b6b6687f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster\WhiteZetsu\GetUp">
+      <UniqueIdentifier>{058f624f-47e4-4379-b6cc-96ffec2a9bf1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster\WhiteZetsu\Die">
+      <UniqueIdentifier>{03932d73-c11a-4a9d-9a28-539b334a8e78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster\TenTail">
+      <UniqueIdentifier>{35660c0b-b35c-4720-b913-25a3d4c3108e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss">
+      <UniqueIdentifier>{3f3bf115-cc88-4d59-ac31-402df50df75f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama">
+      <UniqueIdentifier>{86bd8578-ac0a-420a-85b5-25570d792863}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster\TenTail\Appear">
+      <UniqueIdentifier>{cb6226a5-77af-4150-a028-4c94189824d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster\TenTail\Chase">
+      <UniqueIdentifier>{4093230d-43fc-4f4a-b889-5abef998e44f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster\TenTail\Hit">
+      <UniqueIdentifier>{57d19d9c-9b55-45ce-9a6d-5ea337d27947}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster\TenTail\Idle">
+      <UniqueIdentifier>{a0c3a4b3-6a85-4eb4-8ca5-d3802a8c646d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster\TenTail\Attack">
+      <UniqueIdentifier>{56c364c6-69b8-4947-ad3c-4774fab3a45f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster\TenTail\Die">
+      <UniqueIdentifier>{c5805323-186f-4f66-ac84-b9f757368133}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\Appear">
+      <UniqueIdentifier>{2e6ba42f-08b0-4e49-873c-ada259f8003f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\Roar">
+      <UniqueIdentifier>{17905d7a-999a-437d-b669-13f5f9a5d341}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\Idle">
+      <UniqueIdentifier>{db9ee903-9b80-48c6-aca0-268bc946b583}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\Attack">
+      <UniqueIdentifier>{490f079e-f61d-4b5d-b343-9901f48c3115}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\Attack\Pattern1">
+      <UniqueIdentifier>{fc059b32-617f-4b93-ad4e-fe2b625b7a3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\Attack\Bite">
+      <UniqueIdentifier>{0ed74e2a-5874-49a8-9ce5-45970354d6c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\Attack\Pattern2">
+      <UniqueIdentifier>{0b459284-5034-4216-8b0c-965f5d5750dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\Attack\JumpCrush">
+      <UniqueIdentifier>{27e71116-485a-426a-9a0b-77fc2c98bef7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\SkillAttack">
+      <UniqueIdentifier>{02c1710e-1a40-4854-aa59-ba119bf94852}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\ChanceTime">
+      <UniqueIdentifier>{ef954b25-f257-47ca-9fdd-606cff5f8134}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\SkillAttack\AerialBlast">
+      <UniqueIdentifier>{6c23a636-39a8-4fc2-8558-a730d359c873}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\SkillAttack\Blast">
+      <UniqueIdentifier>{64685760-b2bb-4145-a7a5-22e9230a0457}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\Die">
+      <UniqueIdentifier>{3aaac770-cc8e-44a1-a296-cd6252b54b8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Susanoo">
+      <UniqueIdentifier>{7a38efec-ba84-4da4-8dca-e0a80c651a23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom">
+      <UniqueIdentifier>{b4470f18-eb8f-46dd-a83f-0e2a3833f015}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Idle">
+      <UniqueIdentifier>{5b065e6b-e7a7-4db8-af99-2404a851b114}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\ChakraJump">
+      <UniqueIdentifier>{fba916e7-5d86-443d-8418-e45541b66033}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Jump">
+      <UniqueIdentifier>{8f17a912-b446-44c8-8cc3-1f261a8e3850}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Fall">
+      <UniqueIdentifier>{80184702-3bb0-4d48-ab80-8c3169739694}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Land">
+      <UniqueIdentifier>{30550356-6dc1-4155-bee3-6f1bda9aa40e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\Dash">
+      <UniqueIdentifier>{78bd9b27-fb59-4e11-9499-3e35de5dc50c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto">
+      <UniqueIdentifier>{5b40ff99-b615-4f4e-ba60-97efb2821f31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\Idle">
+      <UniqueIdentifier>{e07697ad-c932-4416-86a9-ad6048e53393}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\Run">
+      <UniqueIdentifier>{f32db3ff-557a-4d73-9de7-110c041ba004}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\Jump">
+      <UniqueIdentifier>{31370329-a87c-4e03-83f2-8edb792ec062}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\Land">
+      <UniqueIdentifier>{274d86f4-f042-4f02-a2e1-0ff7b6dddb4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\ChakraJump">
+      <UniqueIdentifier>{13fa9b97-ab6b-4ecb-b90c-9ac4e1919cde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\BaseAttack">
+      <UniqueIdentifier>{035543b1-878d-4e34-9235-5032d23d495d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\BaseAttack\01.PunchLeft">
+      <UniqueIdentifier>{dad12008-436a-4b2f-8508-39f71586c8a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\BaseAttack\02.PunchRight">
+      <UniqueIdentifier>{c1dc337e-0b03-4125-aa16-1de0b471a384}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\BaseAttack\03.ElbowStrike">
+      <UniqueIdentifier>{c10d775b-2d93-4a44-afc8-03353435013a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\BaseAttack\04.DoubleKick">
+      <UniqueIdentifier>{0cc19077-4bea-417a-ace6-f094234a11d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\Fall">
+      <UniqueIdentifier>{1d6139f7-4e5c-4ae9-acc8-47f752a2453c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\WireDash">
+      <UniqueIdentifier>{74140d7b-05bf-4cc1-b6c5-6a1c53dd40e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\97.Sky">
+      <UniqueIdentifier>{e2c17e2b-7fba-44ac-94a1-58b76be22aad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\05.Particle">
+      <UniqueIdentifier>{7ef9ad8d-deb0-4210-b302-18167070ed40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="96.ObjectPool">
+      <UniqueIdentifier>{8b132984-0ab1-42ba-aaaa-e4808d8bee32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\ColliderObject">
+      <UniqueIdentifier>{42e2e224-f6f8-4b8c-b96a-60b944a56e76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Hit">
+      <UniqueIdentifier>{1907d980-1992-4a53-bd36-d82f8d13489e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\05.Particle\Hit">
+      <UniqueIdentifier>{efc536e3-d4bc-4d95-9a31-982aad8e5f77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Sasuke">
+      <UniqueIdentifier>{994ca8bd-c288-4d91-a4f7-265ed5f95cc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Sasuke\Chidori">
+      <UniqueIdentifier>{e35bd85b-541d-4594-a20a-d7b68dd9aff8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Sasuke\Chidori\00.Charge">
+      <UniqueIdentifier>{3764068d-2d2a-4af4-93eb-4b99da193048}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Sasuke\Chidori\01.Run">
+      <UniqueIdentifier>{108d3197-7a83-4992-90d5-f858b7ca405e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Sasuke\Chidori\02.Attack">
+      <UniqueIdentifier>{aa0ddf88-9a5d-41a1-b632-c20cf8e5fd22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Sasuke\FireBall">
+      <UniqueIdentifier>{15b615d7-2d6d-4142-9b83-3c68bd310774}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Sasuke\Kirin">
+      <UniqueIdentifier>{82b5b91d-eaf2-4ee6-88ce-aca4f966d30e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Sasuke\AerialChidori">
+      <UniqueIdentifier>{9e552e17-b1e8-468b-843e-f2f3985eb36a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Sasuke\AerialFireBall">
+      <UniqueIdentifier>{3b8ca2bd-aec4-487a-85fa-66af3b693ac6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Sasuke\AerialChidori\00.Charge">
+      <UniqueIdentifier>{e19e1ab7-2db9-4fdf-9b1a-64e8899842ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Sasuke\AerialChidori\01.Run">
+      <UniqueIdentifier>{b05541cd-5960-4b26-be97-f9aeaf827535}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Sasuke\AerialChidori\02.Attack">
+      <UniqueIdentifier>{53d8ea06-7574-437d-8278-4ee0b64e589e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\02.NonAnimModel">
+      <UniqueIdentifier>{f07725b1-7c8d-4e74-b346-a23ed786e8e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\02.NonAnimModel\Wood">
+      <UniqueIdentifier>{aa2c9c02-ea23-432c-87ef-0c2edcb1484c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel">
+      <UniqueIdentifier>{9142433b-eef7-42e0-8a4d-51cf0aae376b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\96.Kirin">
+      <UniqueIdentifier>{1ae3b1bf-7d52-4d02-9af3-f88e2b2749e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\03.Monster">
+      <UniqueIdentifier>{54362b16-7cd4-493a-8dfd-b5124c3ad13c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\03.Monster\WhiteZetsu">
+      <UniqueIdentifier>{09f040b1-4046-494b-8c77-771977ef1472}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\03.Monster\TenTail">
+      <UniqueIdentifier>{2d59908f-0247-4d43-98d1-80585a2a813c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\03.Monster\Kurama">
+      <UniqueIdentifier>{b0772fec-0097-4b2a-913c-d1ee4aa8b604}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\03.Monster\Susanoo">
+      <UniqueIdentifier>{299558e9-4ea0-4936-81ed-c042236aa917}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\02.Player">
+      <UniqueIdentifier>{b20e7400-e886-4504-874d-70b03d49620a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\02.Player\Player_Naruto">
+      <UniqueIdentifier>{65893bb9-0d8c-4cda-b2a0-ec832e3dd153}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\02.Player\Player_Naruto\Shadow">
+      <UniqueIdentifier>{2c86563f-1394-4056-9182-93626bc9c6ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\02.Player\Player_Custom">
+      <UniqueIdentifier>{8e49fd1b-e538-4e80-8827-9ae9599be3a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\02.Player\Player_Custom\Parts">
+      <UniqueIdentifier>{b9ac9ec3-6474-4c32-97ac-b06d13e8d681}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\02.Player\Player_Custom\Parts\Head">
+      <UniqueIdentifier>{477de5d5-ab5b-436c-b3a3-89d4fac52864}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\02.Player\Player_Custom\Parts\Body_Lower">
+      <UniqueIdentifier>{9d095955-6f0d-42ae-bfce-b2f54df9b323}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\02.Player\Player_Custom\Parts\Body_Once">
+      <UniqueIdentifier>{772723b4-9640-485a-823f-2e9d97ca8f07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\02.Player\Player_Custom\Parts\Body_Upper">
+      <UniqueIdentifier>{1c9d4c87-c886-4b86-b9b9-1d2e178b9df1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\02.Player\Player_Custom\Parts\Face">
+      <UniqueIdentifier>{993a57f0-516a-46d6-b774-4dcd9647dc48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\02.Player\AttackCollider">
+      <UniqueIdentifier>{c9682320-a993-449c-a2b5-9184ea458e41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect">
+      <UniqueIdentifier>{1a30755d-c44b-4259-a71f-1ccf60bf4c2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Smoke">
+      <UniqueIdentifier>{7e2492ef-3703-461e-ac2c-83f5697e6152}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI">
+      <UniqueIdentifier>{25255c83-98e8-4c12-94e3-fa4944c1be61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Loading">
+      <UniqueIdentifier>{edf7be31-9f0b-4b5c-ab1a-b6c8810c412d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Loading\Background">
+      <UniqueIdentifier>{443d17ca-5c41-472a-b5b7-5bb5a274ad46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Title">
+      <UniqueIdentifier>{2720f810-6c63-4cd0-be7a-3b762c4b34ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Title\Background">
+      <UniqueIdentifier>{975edde1-2612-403a-97f0-90ca75091c76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Title\Logo">
+      <UniqueIdentifier>{37f79387-3509-47a0-acfa-8fffac52205a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Player">
+      <UniqueIdentifier>{e0ed7669-ccfb-42fc-a128-672225d1b5a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Custom">
+      <UniqueIdentifier>{18377137-9512-4e7e-a675-3304ce501877}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Custom\Background">
+      <UniqueIdentifier>{62dc6b4e-306c-483e-9053-a1ef1ccd8bd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Custom\CustomPannel">
+      <UniqueIdentifier>{ace780f6-fcf9-4ff2-915e-1bff09c170f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Custom\CustomPannel\CustomHead">
+      <UniqueIdentifier>{567c49b2-6e4c-4a81-8d0c-947135c508d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Custom\CustomPannel\CustomButton">
+      <UniqueIdentifier>{c2cfb229-7755-4c1a-a1f9-0e8e4881c644}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Monster">
+      <UniqueIdentifier>{039936e7-5f75-473e-a25a-e074ded5e71d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\07.Skill">
+      <UniqueIdentifier>{6d0841e0-9a37-436f-9b04-3d8bc09dcb44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\07.Skill\00.Naruto">
+      <UniqueIdentifier>{64c79cfc-595f-414c-bf5c-48702a96b5d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\07.Skill\00.Naruto\RasenShuriken">
+      <UniqueIdentifier>{a6e307d8-54df-407b-8ee7-bf77ee1be8ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\07.Skill\00.Naruto\Rasengan">
+      <UniqueIdentifier>{f8da255d-4123-4bce-a892-d5b45f28b154}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\07.Skill\00.Naruto\MassiveRasengan">
+      <UniqueIdentifier>{62fc90cc-62e9-4963-b025-06bae8048c0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\07.Skill\99.ChangeWood">
+      <UniqueIdentifier>{c0a552d2-c44e-4a95-839f-ef756e78f646}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\07.Skill\01.Sasuke">
+      <UniqueIdentifier>{bf307280-8065-4517-9571-8bc8eadc4bbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\07.Skill\01.Sasuke\FireBall">
+      <UniqueIdentifier>{2bee3e17-2dfe-402e-a7e7-6482e1be3a67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\07.Skill\01.Sasuke\Chidori">
+      <UniqueIdentifier>{9ef743e4-a586-48eb-a1c5-e70c5cd2bd7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\07.Skill\01.Sasuke\Kirin">
+      <UniqueIdentifier>{113a3330-bb41-4cc9-989e-0c8c7219d506}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\07.Skill\Boss">
+      <UniqueIdentifier>{c28fece5-e0aa-42b3-838c-ba4b54763185}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\07.Skill\Boss\Roar">
+      <UniqueIdentifier>{a95878d5-d11f-4f16-ba61-756f1046249c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\02.NonAnimModel\JumpGuide">
+      <UniqueIdentifier>{567046fc-8952-40d4-9970-3a5136d2023e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Fire">
+      <UniqueIdentifier>{9bfb24c9-1c4f-4f35-8987-126540c6b19f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\07.Skill\Amateras">
+      <UniqueIdentifier>{78c9fc9f-1088-40cb-a9a9-6f6f197fa386}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\03.Monster\Susanoo\Blade">
+      <UniqueIdentifier>{4da1cb2c-1b7b-415c-b1c4-979f2b3d2047}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Susanoo\Idle">
+      <UniqueIdentifier>{f7b55d6c-0372-49c3-80c0-0eeb1084fb22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Susanoo\Appear">
+      <UniqueIdentifier>{a0114713-e243-4cbb-a59a-93a9fb54dc59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Susanoo\Roar">
+      <UniqueIdentifier>{e4ad2546-4eba-4920-8aca-5a0d93530645}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Susanoo\Die">
+      <UniqueIdentifier>{6422fd4e-01d2-47e3-a39d-e15e9b22c491}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\Hit">
+      <UniqueIdentifier>{9d8280af-5408-413c-8985-844817d7c374}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Susanoo\ChanceTime">
+      <UniqueIdentifier>{91272723-a576-446f-aefd-731983def35a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Susanoo\HIT">
+      <UniqueIdentifier>{1df8d9d2-b2a4-431c-a5c7-3a06618e8e01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Susanoo\Attack">
+      <UniqueIdentifier>{a91ab5c5-cc44-49f1-a0d1-1a21d4837d58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Susanoo\Attack\DoubleSlash">
+      <UniqueIdentifier>{af8f8b17-d779-49c8-ac20-b39b28180a98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Susanoo\Attack\GroundPunch">
+      <UniqueIdentifier>{f9c0e604-675e-436b-8a1c-1c943af2e7b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Trails">
+      <UniqueIdentifier>{d6f6acc1-f43a-4709-abe0-e1c32590689d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Trails\FootTrail">
+      <UniqueIdentifier>{964b96ea-1c3d-4736-9cf5-773fb6215b32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Trails\WireTail">
+      <UniqueIdentifier>{b43a9f7c-547a-4432-a134-5bc875e12a39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Trails\ChidoriTrail">
+      <UniqueIdentifier>{07db8a5e-a300-4e5d-ad47-3f93d3812612}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Naruto">
+      <UniqueIdentifier>{cfcf6baf-8926-40de-8c22-0fe1f5a7130b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Naruto\00.Rasengan">
+      <UniqueIdentifier>{e4c9a915-953a-4613-a135-69417863a632}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Naruto\01.RasenShuriken">
+      <UniqueIdentifier>{ecbbc6b6-c9d1-4c7e-8fc3-e4a079cdac65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Naruto\01.RasenShuriken\Explosion">
+      <UniqueIdentifier>{3e4c884c-b10d-4fad-9274-6db8ecb389be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Naruto\02.MassiveRasengan">
+      <UniqueIdentifier>{31ad548b-f74b-4d5b-a0eb-f501890ad535}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Naruto\03.RasenganRing">
+      <UniqueIdentifier>{e6201134-1dcf-4cff-bb73-286d1e6be399}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\03.Monster\AttackCollider">
+      <UniqueIdentifier>{86414714-de66-4c5e-b0f1-cc2a9c92e4b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\Hit">
+      <UniqueIdentifier>{6d6a308c-7c82-40f2-b7f0-b9820155651e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Player\HP">
+      <UniqueIdentifier>{a1efa4bb-14a6-4172-a54b-ad74066dfa69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Player\Skill">
+      <UniqueIdentifier>{b43f1767-7657-4d1a-997d-2d1deafeb342}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Player\Hit">
+      <UniqueIdentifier>{082f7bb4-e03d-421f-b611-5f614f4b0a78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\02.Player\Player_Custom\Shadow">
+      <UniqueIdentifier>{0fbe0731-35f2-4188-b37c-5b6c39cf54c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Levels\GamePlay\Ame">
+      <UniqueIdentifier>{af00cea7-9758-417b-935a-ab56df1f5d32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Levels\GamePlay\Chunin">
+      <UniqueIdentifier>{5e3eefa8-d817-4a7d-9eaa-f1089cfc7769}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Levels\GamePlay\Konoha">
+      <UniqueIdentifier>{8eb45742-b6df-453e-9bfd-e2fa637e67b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\04.NPC">
+      <UniqueIdentifier>{32ca5c3c-3906-4fcc-9696-9cf15766715b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Text">
+      <UniqueIdentifier>{b191e994-c724-4fc6-818c-de3a21974759}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Susanoo\Attack\Rising">
+      <UniqueIdentifier>{88fdfe39-400e-4e3e-9993-cf929b55fb3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Susanoo\Attack\GroundSlash">
+      <UniqueIdentifier>{ceb80387-2770-410c-a693-133e243e79ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\07.Skill\Boss\GroundSlash">
+      <UniqueIdentifier>{ce9228ac-973c-46e7-bcd4-aca19aed4220}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\Skill_AerialRasengun">
+      <UniqueIdentifier>{b6afefcd-ecd3-46b0-bc2e-e3ff6d1ba0d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\Skill_AerialRasengun\00.Charge">
+      <UniqueIdentifier>{09a10b90-7b97-4a4f-96a3-b85efa471757}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\Skill_AerialRasengun\01.Run">
+      <UniqueIdentifier>{468e6dfe-f566-4940-aa11-759ec8e6a0f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\Skill_AerialRasengun\02.Attack">
+      <UniqueIdentifier>{51bc6f7d-29f8-44ec-bb28-58e6fcbb8883}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\Skill_AerialRasenSyuriken">
+      <UniqueIdentifier>{97c66a2b-6776-4751-a6c3-b47b38878bcd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\Skill_Rasengun">
+      <UniqueIdentifier>{9cfd7cf1-6bc4-4778-b475-9267bff14246}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\Skill_Rasengun\00.Charge">
+      <UniqueIdentifier>{77c293b1-e9b1-47a4-ad72-77c450f0e80f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\Skill_Rasengun\01.Run">
+      <UniqueIdentifier>{5ba3f068-767c-4671-a252-027cd2f27715}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\Skill_Rasengun\02.Attack">
+      <UniqueIdentifier>{02874d69-564a-423f-a71f-ba7ee4481386}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\00.Naruto\Skill_RasenShuriken">
+      <UniqueIdentifier>{181969ff-a5de-4421-83ec-cb47e518bd64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Naruto">
+      <UniqueIdentifier>{63b9ba95-facf-4380-8a14-6c379ff49ed7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Naruto\Skill_Rasengan">
+      <UniqueIdentifier>{ffcc7dec-1d1b-4370-bb49-d6df33d88dfc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Naruto\Skill_Rasengan\00.Charge">
+      <UniqueIdentifier>{845ff117-203b-4bd5-bfc3-39fb6aef717f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Naruto\Skill_Rasengan\01.Run">
+      <UniqueIdentifier>{c8faf234-09ff-4072-8bd0-b9b957e69499}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Naruto\Skill_Rasengan\02.Attack">
+      <UniqueIdentifier>{8ccaa960-c47c-4ba4-8fa9-2ab164756392}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Naruto\Skill_AerialRasengun">
+      <UniqueIdentifier>{ed21a696-40b3-47a3-b203-ea0758058a76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Naruto\Skill_AerialRasengun\00.Charge">
+      <UniqueIdentifier>{d4479f68-f4a3-4ac5-bf12-db3b40e5956f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Naruto\Skill_AerialRasengun\01.Run">
+      <UniqueIdentifier>{233079b9-a491-4176-95eb-e0c32e87f49f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Naruto\Skill_AerialRasengun\02.Attack">
+      <UniqueIdentifier>{29c9393a-0588-4607-88be-be3f3f45292b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Naruto\Skill_RasenShuriken">
+      <UniqueIdentifier>{1b3da151-b6ef-4354-b711-18e2f34e0924}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Naruto\Skill_AerialRasenShuriken">
+      <UniqueIdentifier>{b40f93d8-596f-4cfd-860c-114b4925b89b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Naruto\Skill_MassiveRasengun">
+      <UniqueIdentifier>{596f78e0-0e3b-4ea9-aa6b-3e098593c180}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Monster\BossHP">
+      <UniqueIdentifier>{5fc2f2c3-adf1-45fd-8c04-b667685173cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\02.NonAnimModel\AreaCircle">
+      <UniqueIdentifier>{84124459-6c0f-4968-b178-3adba13ccf6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Wire">
+      <UniqueIdentifier>{c4a43286-0d26-4358-8e71-04d2f1b1ed7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Wire\Ready">
+      <UniqueIdentifier>{8fd7ac8f-42a7-4e48-9c96-3a4c52e5b2d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Wire\WireDash">
+      <UniqueIdentifier>{aa33e38e-626e-41ed-9f7c-89340097aad4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Minato">
+      <UniqueIdentifier>{5c4b93ed-756f-4098-a475-4c62d2e5bb4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Minato\TypeZero">
+      <UniqueIdentifier>{704b96f4-882f-48d4-9fb7-16fbbd248ba8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Sasuke">
+      <UniqueIdentifier>{78935f4d-fb0a-4512-8e0b-3735d696086c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Sasuke\FireBall">
+      <UniqueIdentifier>{f136b48d-7401-489d-afda-bcf773ec84a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Sasuke\Chidori">
+      <UniqueIdentifier>{6425537a-ff26-40bc-9e4c-f73ab95c64d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Sasuke\Chidori\Lightning">
+      <UniqueIdentifier>{574c68cc-db62-48f0-8e40-796ecf7edc99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Sasuke\Chidori\Center">
+      <UniqueIdentifier>{a56c0d32-6522-4369-8e8b-ea7654afe1bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Kurama">
+      <UniqueIdentifier>{edd85c96-441a-45fa-a15e-75ab099c8f13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Kurama\Roar">
+      <UniqueIdentifier>{966712ea-f1cc-4ac0-b2ae-ac1841b1388a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Kurama\Roar\Base">
+      <UniqueIdentifier>{d5c50e2c-eade-4c21-8f21-38884e6798be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Kurama\FoxSphere">
+      <UniqueIdentifier>{17daab02-bb9c-4f0f-860c-da9563ed5087}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Kurama\FoxBlast">
+      <UniqueIdentifier>{c6faf68b-d844-4ff3-8c16-79f869133629}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Susanoo">
+      <UniqueIdentifier>{ca4cfb6e-5465-4cf2-9846-c615159bdcbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Susanoo\BladeSlash">
+      <UniqueIdentifier>{a4116bba-e655-428a-9291-7cb416a70a16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Susanoo\GroundSlash">
+      <UniqueIdentifier>{f0de8835-61f4-4b15-9a40-b84c3259b603}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\SKill_Sarin">
+      <UniqueIdentifier>{22179327-2b09-4a6c-91fc-c905238465fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\SKill_Sarin\Amateras">
+      <UniqueIdentifier>{ff4afc1c-74be-4601-9d28-18fad1bcdf3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Minato">
+      <UniqueIdentifier>{5ab7a49f-74b8-486d-9a3d-efbd67ec5b10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Minato\TypeZero">
+      <UniqueIdentifier>{d4f35e17-c6d5-4d20-b891-1d0779271ec9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Minato\TypeZero\Circle">
+      <UniqueIdentifier>{80dd3012-c87b-48e8-9737-bf35cc8f63fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Minato\Rasenko">
+      <UniqueIdentifier>{44de2279-d666-475c-ac38-f9e1f433e7b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Minato\Rasenko">
+      <UniqueIdentifier>{9b2b005d-885f-441d-a5da-fb9ed919450d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\02.NonAnimModel\MinatoKunai">
+      <UniqueIdentifier>{4e2700af-0818-4c00-8534-f7cd87593610}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Minato\Rasenko\Hit">
+      <UniqueIdentifier>{bb30ff89-9765-4c84-9b1f-4ae753f3c77c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Minato\Raijin">
+      <UniqueIdentifier>{b36bd910-a590-4a62-bf05-ef18fa534fe5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\SKill_Sarin\Tsukuyomi">
+      <UniqueIdentifier>{f90c2670-477c-4fec-8e3f-e414cd56eb06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\07.Skill\Tsukuyomi">
+      <UniqueIdentifier>{d422b101-5352-4c17-9536-f200fbadffdd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster\WhiteZetsu\BackDash">
+      <UniqueIdentifier>{2a4004a7-bc2d-4b3f-b083-c6aa7367b1fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster\WhiteZetsu\HitDown">
+      <UniqueIdentifier>{6ff6e076-6fb6-44d3-9a94-dc78b6ebc3f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Monster\WhiteZetsu\Groggy">
+      <UniqueIdentifier>{630a31a6-f1ac-4c9d-93a5-9eab702ccb3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\02.NonAnimModel\GroundBreak">
+      <UniqueIdentifier>{a3b78e66-89ef-4c50-8638-eeae9fcc3eb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Smoke\Smoke11">
+      <UniqueIdentifier>{115cbb7f-f433-4cd3-b9c4-c74897592b1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Smoke\SmokeRing">
+      <UniqueIdentifier>{4a3ffba1-5b87-4363-81be-c343905b0558}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\00.NewBaseAttack">
+      <UniqueIdentifier>{e32b7045-b7b0-4fca-8090-d41c0655a286}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\00.NewBaseAttack\01.PucnhRight">
+      <UniqueIdentifier>{e422aaea-1b8a-4340-b3f7-f276995901d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\00.NewBaseAttack\00.PunchLeft">
+      <UniqueIdentifier>{082613aa-f48f-4ffa-bede-ef33ba22a011}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\00.NewBaseAttack\02.DoubleSlash">
+      <UniqueIdentifier>{caef41b6-44b4-47f8-b2ad-c76f570c4ba5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\00.NewBaseAttack\03.GroundPunch">
+      <UniqueIdentifier>{04069bcc-4457-4cbd-a997-8059ce8dd0a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\00.NewBaseAttack\04.Slash">
+      <UniqueIdentifier>{b92fe5fb-d1b8-4d4d-b0d0-21e55544b57a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\00.NewBaseAttack\05.RisingKick">
+      <UniqueIdentifier>{c12ff1cd-aa81-4121-8f8f-0ec9f1d92229}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\00.NewBaseAttack\06.DoubleHandPunch">
+      <UniqueIdentifier>{78e77c46-d549-4c47-a966-49f4d5e3826d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\BaseAttack">
+      <UniqueIdentifier>{af39e5d7-c291-4005-a520-2ba396ddda3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\BaseAttack\02.BackBlow">
+      <UniqueIdentifier>{dc957c0d-f07a-47bc-9f32-7ac9c40290ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\BaseAttack\03.TurnKick">
+      <UniqueIdentifier>{b31c0803-e7ab-491d-8d8c-d415bc242b2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\BaseAttack\04.WindMill">
+      <UniqueIdentifier>{105a2c89-be59-42ba-b26e-7dcf2e81d0ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Sarin">
+      <UniqueIdentifier>{ed3219d3-92f3-48d1-9af3-fa3f3689349e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Sarin\Amateras">
+      <UniqueIdentifier>{1b2e524f-e77a-4b10-9a9a-6a17ca6a5b31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Sarin\Tsukuyomi">
+      <UniqueIdentifier>{1795e61b-3247-41dd-b9f2-c2ed106f53d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Sarin\Susanoo">
+      <UniqueIdentifier>{ddd28051-7ddd-4a75-8f70-2e502b6baee3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\05.SkillSusanoo">
+      <UniqueIdentifier>{cc4fc6f8-3368-4b34-8a16-5bbb136114c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Effect\Distortion">
+      <UniqueIdentifier>{fbc6fbba-eb45-4e5f-94a7-536aca5e5851}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Target">
+      <UniqueIdentifier>{afdd5a57-4824-4331-826c-82229248e75a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Title\TitleButton">
+      <UniqueIdentifier>{e0ac2061-6995-4c92-ba1b-9aed3345186e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Title\TitleText">
+      <UniqueIdentifier>{ee8c92e7-b3a0-4480-a0f1-9b304e49e384}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\Leave">
+      <UniqueIdentifier>{e3b3f3e1-de74-4943-ad12-ac787d2c2601}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Monster\BossIcon">
+      <UniqueIdentifier>{f9b3c9de-8b8b-465a-9439-113aa7ccad62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\05.Particle\FireBall">
+      <UniqueIdentifier>{1268494d-b423-4c22-8233-f262cd319f3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\Heal">
+      <UniqueIdentifier>{698082e8-4492-4a46-ba13-3096e6806d3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\SkillAttack\SpecialAttack">
+      <UniqueIdentifier>{276589ed-187d-4a40-b395-97063258f4a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\07.Skill\Boss\KuramaRasengan">
+      <UniqueIdentifier>{f5947164-b050-4a0d-ab59-b7fb33cec728}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\Jump">
+      <UniqueIdentifier>{567e7759-d744-45ef-8381-50d3adccc72f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\Fall">
+      <UniqueIdentifier>{1994ceed-8125-4957-9304-258e6e6613dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Boss\Kurama\SkillAttack\ThreeBlast">
+      <UniqueIdentifier>{3ca1061c-75c8-475f-ad00-855b044f3e80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.AnimModel\02.Player\Player_Custom\MotionTrail">
+      <UniqueIdentifier>{c85a1f9e-ba60-4935-85ed-98c5013abc77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.UI\Custom\CustomPannel\ConfirmButon">
+      <UniqueIdentifier>{463b0b60-0828-4f48-b0d6-ae9a57fa88ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.State\Player\01.Custom\Skill_Naruto\Run">
+      <UniqueIdentifier>{a1646344-cef6-47a8-8c37-fd508ad6b5d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\05.Particle\Misuok">
+      <UniqueIdentifier>{f0e1e866-9328-4691-80be-0d16f769c70b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Client.h">
+      <Filter>98.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>98.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>98.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>98.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\MainApp.h">
+      <Filter>00.MainApp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Client_Defines.h">
+      <Filter>99.Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Level_Logo.h">
+      <Filter>01.Levels\Logo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Level_Loading.h">
+      <Filter>01.Levels\Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Loader.h">
+      <Filter>01.Levels\Loading\Loader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\BackGround.h">
+      <Filter>02.GameObjects\00.BackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Terrain.h">
+      <Filter>02.GameObjects\01.Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\NonAnimModel.h">
+      <Filter>02.GameObjects\02.NonAnimModel</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Player.h">
+      <Filter>02.GameObjects\03.AnimModel\02.Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_Idle.h">
+      <Filter>05.State\Player\00.Naruto\Idle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Player_Naruto.h">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Naruto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_Run.h">
+      <Filter>05.State\Player\00.Naruto\Run</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FreeCamera.h">
+      <Filter>02.GameObjects\99.Camera\FreeCamera</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\PlayerCamera.h">
+      <Filter>02.GameObjects\99.Camera\PlayerCamera</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_Jump.h">
+      <Filter>05.State\Player\00.Naruto\Jump</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_RunEnd.h">
+      <Filter>05.State\Player\00.Naruto\Run</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_DoubleJump.h">
+      <Filter>05.State\Player\00.Naruto\Jump</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_FallFront.h">
+      <Filter>05.State\Player\00.Naruto\Fall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_Land.h">
+      <Filter>05.State\Player\00.Naruto\Land</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_PunchLeft.h">
+      <Filter>05.State\Player\00.Naruto\BaseAttack\01.PunchLeft</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_PunchRight.h">
+      <Filter>05.State\Player\00.Naruto\BaseAttack\02.PunchRight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_ElbowStrike.h">
+      <Filter>05.State\Player\00.Naruto\BaseAttack\03.ElbowStrike</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_DoubleKick.h">
+      <Filter>05.State\Player\00.Naruto\BaseAttack\04.DoubleKick</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_WallAttach.h">
+      <Filter>05.State\Player\00.Naruto\Land</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_AerialRasengun_Charge.h">
+      <Filter>05.State\Player\00.Naruto\Skill_AerialRasengun\00.Charge</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_AerialRasengun_Run.h">
+      <Filter>05.State\Player\00.Naruto\Skill_AerialRasengun\01.Run</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_AerialRasengun_Attack.h">
+      <Filter>05.State\Player\00.Naruto\Skill_AerialRasengun\02.Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_Rasengun_Charge.h">
+      <Filter>05.State\Player\00.Naruto\Skill_Rasengun\00.Charge</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_Rasengun_Run.h">
+      <Filter>05.State\Player\00.Naruto\Skill_Rasengun\01.Run</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_Rasengun_Attack.h">
+      <Filter>05.State\Player\00.Naruto\Skill_Rasengun\02.Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_RasenShuriken.h">
+      <Filter>05.State\Player\00.Naruto\Skill_RasenShuriken</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Shadow_Naruto.h">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Naruto\Shadow</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_AerialRasenShuriken.h">
+      <Filter>05.State\Player\00.Naruto\Skill_AerialRasenSyuriken</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Naruto_ChakraJump.h">
+      <Filter>05.State\Player\00.Naruto\ChakraJump</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Background_Loading.h">
+      <Filter>02.GameObjects\04.UI\Loading\Background</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Background_Title.h">
+      <Filter>02.GameObjects\04.UI\Title\Background</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Title_Logo.h">
+      <Filter>02.GameObjects\04.UI\Title\Logo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect.h">
+      <Filter>02.GameObjects\06.Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Monster.h">
+      <Filter>02.GameObjects\03.AnimModel\03.Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\WhiteZetsu.h">
+      <Filter>02.GameObjects\03.AnimModel\03.Monster\WhiteZetsu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_WhiteZetsu_Appear.h">
+      <Filter>05.State\Monster\WhiteZetsu\Appear</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_WhiteZetsu_Idle.h">
+      <Filter>05.State\Monster\WhiteZetsu\Idle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_WhiteZetsu_Chase.h">
+      <Filter>05.State\Monster\WhiteZetsu\Chase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Player_Custom.h">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Custom</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Head_Player.h">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Custom\Parts\Head</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Face_Player.h">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Custom\Parts\Face</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_RunEnd.h">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Run</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_Run.h">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Run</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_Idle.h">
+      <Filter>05.State\Player\01.Custom\Idle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\BodyUpper_Player.h">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Custom\Parts\Body_Upper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\BodyOnce_Player.h">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Custom\Parts\Body_Once</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Level_Custom.h">
+      <Filter>01.Levels\Custom</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\BodyLower_Player.h">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Custom\Parts\Body_Lower</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\CustomCamera.h">
+      <Filter>02.GameObjects\99.Camera\CustomCamera</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Background_Custom.h">
+      <Filter>02.GameObjects\04.UI\Custom\Background</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\CustomPannel.h">
+      <Filter>02.GameObjects\04.UI\Custom\CustomPannel</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_ChakraJump.h">
+      <Filter>05.State\Player\01.Custom\ChakraJump</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_Jump.h">
+      <Filter>05.State\Player\01.Custom\Jump</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_DoubleJump.h">
+      <Filter>05.State\Player\01.Custom\Jump</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_FallFront.h">
+      <Filter>05.State\Player\01.Custom\Fall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_Land.h">
+      <Filter>05.State\Player\01.Custom\Land</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_WhiteZetsu_Attack1.h">
+      <Filter>05.State\Monster\WhiteZetsu\Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_WhiteZetsu_AttackFar.h">
+      <Filter>05.State\Monster\WhiteZetsu\Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_WhiteZetsu_FlyAway.h">
+      <Filter>05.State\Monster\WhiteZetsu\Hit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_WhiteZetsu_Fall.h">
+      <Filter>05.State\Monster\WhiteZetsu\Fall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_WhiteZetsu_GetUp.h">
+      <Filter>05.State\Monster\WhiteZetsu\GetUp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_WhiteZetsu_Hit1.h">
+      <Filter>05.State\Monster\WhiteZetsu\Hit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_WhiteZetsu_Hit2.h">
+      <Filter>05.State\Monster\WhiteZetsu\Hit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_WhiteZetsu_FlyGround.h">
+      <Filter>05.State\Monster\WhiteZetsu\Hit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_WhiteZetsu_Die.h">
+      <Filter>05.State\Monster\WhiteZetsu\Die</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_WallAttach.h">
+      <Filter>05.State\Player\01.Custom\Land</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\TenTail.h">
+      <Filter>02.GameObjects\03.AnimModel\03.Monster\TenTail</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_TenTail_Appear.h">
+      <Filter>05.State\Monster\TenTail\Appear</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_TenTail_Attack.h">
+      <Filter>05.State\Monster\TenTail\Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_TenTail_Idle.h">
+      <Filter>05.State\Monster\TenTail\Idle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Boss_Kurama.h">
+      <Filter>02.GameObjects\03.AnimModel\03.Monster\Kurama</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Kurama_Appear.h">
+      <Filter>05.State\Boss\Kurama\Appear</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Kurama_Roar.h">
+      <Filter>05.State\Boss\Kurama\Roar</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Kurama_Idle.h">
+      <Filter>05.State\Boss\Kurama\Idle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_TenTail_Chase.h">
+      <Filter>05.State\Monster\TenTail\Chase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_TenTail_Dash.h">
+      <Filter>05.State\Monster\TenTail\Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Rasengan_CreateSmoke.h">
+      <Filter>02.GameObjects\06.Effect\Naruto\00.Rasengan</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Rasengan_Center.h">
+      <Filter>02.GameObjects\06.Effect\Naruto\00.Rasengan</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\RasenShuriken_Blade.h">
+      <Filter>02.GameObjects\06.Effect\Naruto\01.RasenShuriken</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\RasenShuriken_Circle.h">
+      <Filter>02.GameObjects\06.Effect\Naruto\01.RasenShuriken</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\RasenShuriken_BladeLine.h">
+      <Filter>02.GameObjects\06.Effect\Naruto\01.RasenShuriken</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\RasenShuriken_BladeFly.h">
+      <Filter>02.GameObjects\06.Effect\Naruto\01.RasenShuriken</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Skill.h">
+      <Filter>02.GameObjects\07.Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\RasenShuriken_Sphere.h">
+      <Filter>02.GameObjects\06.Effect\Naruto\01.RasenShuriken</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Skill_RasenShuriken.h">
+      <Filter>02.GameObjects\07.Skill\00.Naruto\RasenShuriken</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Skill_Rasengan.h">
+      <Filter>02.GameObjects\07.Skill\00.Naruto\Rasengan</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Rasengan_RunSmoke.h">
+      <Filter>02.GameObjects\06.Effect\Naruto\00.Rasengan</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\MassiveRasengan_Sphere.h">
+      <Filter>02.GameObjects\06.Effect\Naruto\02.MassiveRasengan</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Skill_MassiveRasengan.h">
+      <Filter>02.GameObjects\07.Skill\00.Naruto\MassiveRasengan</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\MassiveRasengan_Circle.h">
+      <Filter>02.GameObjects\06.Effect\Naruto\02.MassiveRasengan</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Kurama_Attack1.h">
+      <Filter>05.State\Boss\Kurama\Attack\Pattern1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Kurama_Attack2.h">
+      <Filter>05.State\Boss\Kurama\Attack\Pattern2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Kurama_JumpCrush.h">
+      <Filter>05.State\Boss\Kurama\Attack\JumpCrush</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Kurama_Bite.h">
+      <Filter>05.State\Boss\Kurama\Attack\Bite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Kurama_ChanceTime.h">
+      <Filter>05.State\Boss\Kurama\ChanceTime</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Kurama_Hit.h">
+      <Filter>05.State\Boss\Kurama\Hit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Kurama_FoxBlast.h">
+      <Filter>05.State\Boss\Kurama\SkillAttack\Blast</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Kurama_AerialBlast.h">
+      <Filter>05.State\Boss\Kurama\SkillAttack\AerialBlast</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Kurama_Die.h">
+      <Filter>05.State\Boss\Kurama\Die</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Skill_ChangeWood.h">
+      <Filter>02.GameObjects\07.Skill\99.ChangeWood</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Wood.h">
+      <Filter>02.GameObjects\02.NonAnimModel\Wood</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Sky.h">
+      <Filter>02.GameObjects\97.Sky</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Lightning.h">
+      <Filter>02.GameObjects\06.Effect\Sasuke\Chidori\Lightning</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_PunchRight.h">
+      <Filter>05.State\Player\01.Custom\00.NewBaseAttack\01.PucnhRight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_BackBlow.h">
+      <Filter>05.State\Player\01.Custom\BaseAttack\02.BackBlow</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_TurnKick.h">
+      <Filter>05.State\Player\01.Custom\BaseAttack\03.TurnKick</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_WindMill.h">
+      <Filter>05.State\Player\01.Custom\BaseAttack\04.WindMill</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Custom_Button.h">
+      <Filter>02.GameObjects\04.UI\Custom\CustomPannel\CustomButton</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Custom_Head.h">
+      <Filter>02.GameObjects\04.UI\Custom\CustomPannel\CustomHead</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Particle_Snow.h">
+      <Filter>02.GameObjects\05.Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ObjectPool.h">
+      <Filter>96.ObjectPool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Skill_Chidori.h">
+      <Filter>02.GameObjects\07.Skill\01.Sasuke\Chidori</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Chidori_Center.h">
+      <Filter>02.GameObjects\06.Effect\Sasuke\Chidori\Center</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_Chidori_Attack.h">
+      <Filter>05.State\Player\01.Custom\Skill_Sasuke\Chidori\02.Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_Chidori_Charge.h">
+      <Filter>05.State\Player\01.Custom\Skill_Sasuke\Chidori\00.Charge</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_Chidori_Run.h">
+      <Filter>05.State\Player\01.Custom\Skill_Sasuke\Chidori\01.Run</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FireBall.h">
+      <Filter>02.GameObjects\06.Effect\Sasuke\FireBall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FireBall_Effect.h">
+      <Filter>02.GameObjects\06.Effect\Sasuke\FireBall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FireBall_FlySmoke.h">
+      <Filter>02.GameObjects\06.Effect\Sasuke\FireBall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FootTrail.h">
+      <Filter>02.GameObjects\06.Effect\Trails\FootTrail</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Skill_FireBall.h">
+      <Filter>02.GameObjects\07.Skill\01.Sasuke\FireBall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_FireBall.h">
+      <Filter>05.State\Player\01.Custom\Skill_Sasuke\FireBall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Kirin.h">
+      <Filter>02.GameObjects\03.AnimModel\96.Kirin</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_MonsterHP.h">
+      <Filter>02.GameObjects\04.UI\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ColliderObject.h">
+      <Filter>02.GameObjects\ColliderObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Collider_PlayerAttack.h">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\AttackCollider</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Collider_MonsterAttack.h">
+      <Filter>02.GameObjects\03.AnimModel\03.Monster\AttackCollider</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_HIt1.h">
+      <Filter>05.State\Player\01.Custom\Hit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_HIt2.h">
+      <Filter>05.State\Player\01.Custom\Hit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_HItSpin.h">
+      <Filter>05.State\Player\01.Custom\Hit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_TextureScale.h">
+      <Filter>02.GameObjects\06.Effect\Kurama\Roar\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Skill_Roar.h">
+      <Filter>02.GameObjects\07.Skill\Boss\Roar</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Particle_Hit.h">
+      <Filter>02.GameObjects\05.Particle\Hit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_Kirin.h">
+      <Filter>05.State\Player\01.Custom\Skill_Sasuke\Kirin</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Player_Dash.h">
+      <Filter>05.State\Player\Dash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_AerialChidori_Charge.h">
+      <Filter>05.State\Player\01.Custom\Skill_Sasuke\AerialChidori\00.Charge</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_AerialChidori_Run.h">
+      <Filter>05.State\Player\01.Custom\Skill_Sasuke\AerialChidori\01.Run</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_AerialChidori_Attack.h">
+      <Filter>05.State\Player\01.Custom\Skill_Sasuke\AerialChidori\02.Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_AerialFireBall.h">
+      <Filter>05.State\Player\01.Custom\Skill_Sasuke\AerialFireBall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Skill_Kirin.h">
+      <Filter>02.GameObjects\07.Skill\01.Sasuke\Kirin</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\JumpGuide.h">
+      <Filter>02.GameObjects\02.NonAnimModel\JumpGuide</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Amateras.h">
+      <Filter>02.GameObjects\06.Effect\SKill_Sarin\Amateras</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Fire05.h">
+      <Filter>02.GameObjects\06.Effect\Fire</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Skill_Amateras.h">
+      <Filter>02.GameObjects\07.Skill\Amateras</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_Amateras.h">
+      <Filter>05.State\Player\01.Custom\Skill_Sarin\Amateras</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Boss_Susanoo.h">
+      <Filter>02.GameObjects\03.AnimModel\03.Monster\Susanoo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Susanoo_Idle.h">
+      <Filter>05.State\Boss\Susanoo\Idle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Susanoo_Appear.h">
+      <Filter>05.State\Boss\Susanoo\Appear</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Susanoo_Roar.h">
+      <Filter>05.State\Boss\Susanoo\Roar</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\SusanooBlade.h">
+      <Filter>02.GameObjects\03.AnimModel\03.Monster\Susanoo\Blade</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Susanoo_Die.h">
+      <Filter>05.State\Boss\Susanoo\Die</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Susanoo_ChanceTime.h">
+      <Filter>05.State\Boss\Susanoo\ChanceTime</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Susanoo_Hit.h">
+      <Filter>05.State\Boss\Susanoo\HIT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Susanoo_DoubleSlash.h">
+      <Filter>05.State\Boss\Susanoo\Attack\DoubleSlash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Susanoo_GroundPunch.h">
+      <Filter>05.State\Boss\Susanoo\Attack\GroundPunch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ExplosionSphere.h">
+      <Filter>02.GameObjects\06.Effect\Naruto\01.RasenShuriken\Explosion</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ChidoriTrail.h">
+      <Filter>02.GameObjects\06.Effect\Trails\ChidoriTrail</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\RasenganRing.h">
+      <Filter>02.GameObjects\06.Effect\Naruto\03.RasenganRing</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_PlayerHP.h">
+      <Filter>02.GameObjects\04.UI\Player\HP</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_PlayerSkill.h">
+      <Filter>02.GameObjects\04.UI\Player\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_PlayerSP.h">
+      <Filter>02.GameObjects\04.UI\Player\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_HitNum.h">
+      <Filter>02.GameObjects\04.UI\Player\Hit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Level_Ame.h">
+      <Filter>01.Levels\GamePlay\Ame</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Level_Chunin.h">
+      <Filter>01.Levels\GamePlay\Chunin</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Level_Konoha.h">
+      <Filter>01.Levels\GamePlay\Konoha</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Sasuke_Next.h">
+      <Filter>02.GameObjects\03.AnimModel\04.NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_TextWindow.h">
+      <Filter>02.GameObjects\04.UI\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Susanoo_Rising.h">
+      <Filter>05.State\Boss\Susanoo\Attack\Rising</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Susanoo_GroundSlash.h">
+      <Filter>05.State\Boss\Susanoo\Attack\GroundSlash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ExplosionCircle.h">
+      <Filter>02.GameObjects\06.Effect\Susanoo\GroundSlash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Skill_GroundSlash.h">
+      <Filter>02.GameObjects\07.Skill\Boss\GroundSlash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\BladeSlash.h">
+      <Filter>02.GameObjects\06.Effect\Susanoo\BladeSlash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Particle_Up.h">
+      <Filter>02.GameObjects\05.Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_Rasengun_Charge.h">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Skill_Rasengan\00.Charge</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_Rasengun_Run.h">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Skill_Rasengan\01.Run</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_Rasengun_Attack.h">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Skill_Rasengan\02.Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_AerialRasengun_Attack.h">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Skill_AerialRasengun\02.Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_AerialRasengun_Charge.h">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Skill_AerialRasengun\00.Charge</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_AerialRasengun_Run.h">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Skill_AerialRasengun\01.Run</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_AerialRasenShuriken.h">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Skill_AerialRasenShuriken</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_RasenShuriken.h">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Skill_RasenShuriken</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Shadow_Custom.h">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Custom\Shadow</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_MassiveRasengan.h">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Skill_MassiveRasengun</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_BossHP.h">
+      <Filter>02.GameObjects\04.UI\Monster\BossHP</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FoxSphere.h">
+      <Filter>02.GameObjects\06.Effect\Kurama\FoxSphere</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\AreaCircle.h">
+      <Filter>02.GameObjects\02.NonAnimModel\AreaCircle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\WireTrail.h">
+      <Filter>02.GameObjects\06.Effect\Trails\WireTail</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_WireReady.h">
+      <Filter>05.State\Player\01.Custom\Wire\Ready</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_WireDash.h">
+      <Filter>05.State\Player\01.Custom\Wire\WireDash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FoxExplosionSphere.h">
+      <Filter>02.GameObjects\06.Effect\Kurama\FoxSphere</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FoxBlast.h">
+      <Filter>02.GameObjects\06.Effect\Kurama\FoxBlast</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_TypeZeroAttack.h">
+      <Filter>05.State\Player\01.Custom\Skill_Minato\TypeZero</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_TypeZero.h">
+      <Filter>02.GameObjects\06.Effect\Minato\TypeZero</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_TypeZeroCircle.h">
+      <Filter>02.GameObjects\06.Effect\Minato\TypeZero\Circle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_RasenkoStar.h">
+      <Filter>02.GameObjects\06.Effect\Minato\Rasenko</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_Rasenko.h">
+      <Filter>05.State\Player\01.Custom\Skill_Minato\Rasenko</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Kunai_Minato.h">
+      <Filter>02.GameObjects\02.NonAnimModel\MinatoKunai</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_RasenkoHit.h">
+      <Filter>02.GameObjects\06.Effect\Minato\Rasenko\Hit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_Raijin.h">
+      <Filter>05.State\Player\01.Custom\Skill_Minato\Raijin</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_Tsukuyomi01.h">
+      <Filter>02.GameObjects\06.Effect\SKill_Sarin\Tsukuyomi</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Skill_Tsukuyomi.h">
+      <Filter>02.GameObjects\07.Skill\Tsukuyomi</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_WhiteZestu_BackDash.h">
+      <Filter>05.State\Monster\WhiteZetsu\BackDash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_WhiteZetsu_Groggy.h">
+      <Filter>05.State\Monster\WhiteZetsu\Groggy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_WhiteZetsu_HitDown.h">
+      <Filter>05.State\Monster\WhiteZetsu\HitDown</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_GroundBreak.h">
+      <Filter>02.GameObjects\02.NonAnimModel\GroundBreak</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Smoke11.h">
+      <Filter>02.GameObjects\06.Effect\Smoke\Smoke11</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\SmokeRing.h">
+      <Filter>02.GameObjects\06.Effect\Smoke\SmokeRing</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_PunchLeft.h">
+      <Filter>05.State\Player\01.Custom\00.NewBaseAttack\00.PunchLeft</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_DoubleSlash.h">
+      <Filter>05.State\Player\01.Custom\00.NewBaseAttack\02.DoubleSlash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_GroundPunch.h">
+      <Filter>05.State\Player\01.Custom\00.NewBaseAttack\03.GroundPunch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_Slash.h">
+      <Filter>05.State\Player\01.Custom\00.NewBaseAttack\04.Slash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_RisingKick.h">
+      <Filter>05.State\Player\01.Custom\00.NewBaseAttack\05.RisingKick</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_DoubleHandPunch.h">
+      <Filter>05.State\Player\01.Custom\00.NewBaseAttack\06.DoubleHandPunch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_Tsukuyomi.h">
+      <Filter>05.State\Player\01.Custom\Skill_Sarin\Tsukuyomi</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Custom_Susanoo.h">
+      <Filter>05.State\Player\01.Custom\Skill_Sarin\Susanoo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Skill_Susanoo.h">
+      <Filter>02.GameObjects\03.AnimModel\05.SkillSusanoo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_Distortion.h">
+      <Filter>02.GameObjects\06.Effect\Distortion</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_Target.h">
+      <Filter>02.GameObjects\04.UI\Target</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_TitleButton.h">
+      <Filter>02.GameObjects\04.UI\Title\TitleButton</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Kurama_Leave.h">
+      <Filter>05.State\Boss\Kurama\Leave</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_BossTarget.h">
+      <Filter>02.GameObjects\04.UI\Monster\BossIcon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Particle_FireBall.h">
+      <Filter>02.GameObjects\05.Particle\FireBall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Kurama_Heal.h">
+      <Filter>05.State\Boss\Kurama\Heal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Kurama_SpecialAttack.h">
+      <Filter>05.State\Boss\Kurama\SkillAttack\SpecialAttack</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Kurama_ThreeBlast.h">
+      <Filter>05.State\Boss\Kurama\SkillAttack\ThreeBlast</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Skill_KuramaRasengan.h">
+      <Filter>02.GameObjects\07.Skill\Boss\KuramaRasengan</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Kurama_Jump.h">
+      <Filter>05.State\Boss\Kurama\Jump</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Kurama_Fall.h">
+      <Filter>05.State\Boss\Kurama\Fall</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Player_MotionTrail.h">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Custom\MotionTrail</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_ConfirmButton.h">
+      <Filter>02.GameObjects\04.UI\Custom\CustomPannel\ConfirmButon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Particle_Misuok.h">
+      <Filter>02.GameObjects\05.Particle\Misuok</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Client.cpp">
+      <Filter>98.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>98.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\MainApp.cpp">
+      <Filter>00.MainApp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Level_Logo.cpp">
+      <Filter>01.Levels\Logo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Level_Loading.cpp">
+      <Filter>01.Levels\Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Loader.cpp">
+      <Filter>01.Levels\Loading\Loader</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\BackGround.cpp">
+      <Filter>02.GameObjects\00.BackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Terrain.cpp">
+      <Filter>02.GameObjects\01.Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\NonAnimModel.cpp">
+      <Filter>02.GameObjects\02.NonAnimModel</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Player.cpp">
+      <Filter>02.GameObjects\03.AnimModel\02.Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_Idle.cpp">
+      <Filter>05.State\Player\00.Naruto\Idle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Player_Naruto.cpp">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Naruto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_Run.cpp">
+      <Filter>05.State\Player\00.Naruto\Run</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\FreeCamera.cpp">
+      <Filter>02.GameObjects\99.Camera\FreeCamera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\PlayerCamera.cpp">
+      <Filter>02.GameObjects\99.Camera\PlayerCamera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_Jump.cpp">
+      <Filter>05.State\Player\00.Naruto\Jump</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_RunEnd.cpp">
+      <Filter>05.State\Player\00.Naruto\Run</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_FallFront.cpp">
+      <Filter>05.State\Player\00.Naruto\Fall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_DoubleJump.cpp">
+      <Filter>05.State\Player\00.Naruto\Jump</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_Land.cpp">
+      <Filter>05.State\Player\00.Naruto\Land</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_PunchLeft.cpp">
+      <Filter>05.State\Player\00.Naruto\BaseAttack\01.PunchLeft</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_PunchRight.cpp">
+      <Filter>05.State\Player\00.Naruto\BaseAttack\02.PunchRight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_ElbowStrike.cpp">
+      <Filter>05.State\Player\00.Naruto\BaseAttack\03.ElbowStrike</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_DoubleKick.cpp">
+      <Filter>05.State\Player\00.Naruto\BaseAttack\04.DoubleKick</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_WallAttach.cpp">
+      <Filter>05.State\Player\00.Naruto\Land</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_AerialRasengun_Charge.cpp">
+      <Filter>05.State\Player\00.Naruto\Skill_AerialRasengun\00.Charge</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_AerialRasengun_Run.cpp">
+      <Filter>05.State\Player\00.Naruto\Skill_AerialRasengun\01.Run</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_AerialRasengun_Attack.cpp">
+      <Filter>05.State\Player\00.Naruto\Skill_AerialRasengun\02.Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_Rasengun_Charge.cpp">
+      <Filter>05.State\Player\00.Naruto\Skill_Rasengun\00.Charge</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_Rasengun_Run.cpp">
+      <Filter>05.State\Player\00.Naruto\Skill_Rasengun\01.Run</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_Rasengun_Attack.cpp">
+      <Filter>05.State\Player\00.Naruto\Skill_Rasengun\02.Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_RasenShuriken.cpp">
+      <Filter>05.State\Player\00.Naruto\Skill_RasenShuriken</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Shadow_Naruto.cpp">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Naruto\Shadow</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_AerialRasenShuriken.cpp">
+      <Filter>05.State\Player\00.Naruto\Skill_AerialRasenSyuriken</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Naruto_ChakraJump.cpp">
+      <Filter>05.State\Player\00.Naruto\ChakraJump</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Background_Loading.cpp">
+      <Filter>02.GameObjects\04.UI\Loading\Background</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Background_Title.cpp">
+      <Filter>02.GameObjects\04.UI\Title\Background</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Title_Logo.cpp">
+      <Filter>02.GameObjects\04.UI\Title\Logo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect.cpp">
+      <Filter>02.GameObjects\06.Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Monster.cpp">
+      <Filter>02.GameObjects\03.AnimModel\03.Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\WhiteZetsu.cpp">
+      <Filter>02.GameObjects\03.AnimModel\03.Monster\WhiteZetsu</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_WhiteZetsu_Appear.cpp">
+      <Filter>05.State\Monster\WhiteZetsu\Appear</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_WhiteZetsu_Idle.cpp">
+      <Filter>05.State\Monster\WhiteZetsu\Idle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_WhiteZetsu_Chase.cpp">
+      <Filter>05.State\Monster\WhiteZetsu\Chase</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Player_Custom.cpp">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Custom</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Head_Player.cpp">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Custom\Parts\Head</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Face_Player.cpp">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Custom\Parts\Face</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_Idle.cpp">
+      <Filter>05.State\Player\01.Custom\Idle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_Run.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Run</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_RunEnd.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Run</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\BodyUpper_Player.cpp">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Custom\Parts\Body_Upper</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\BodyOnce_Player.cpp">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Custom\Parts\Body_Once</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Level_Custom.cpp">
+      <Filter>01.Levels\Custom</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\BodyLower_Player.cpp">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Custom\Parts\Body_Lower</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\CustomCamera.cpp">
+      <Filter>02.GameObjects\99.Camera\CustomCamera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Background_Custom.cpp">
+      <Filter>02.GameObjects\04.UI\Custom\Background</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\CustomPannel.cpp">
+      <Filter>02.GameObjects\04.UI\Custom\CustomPannel</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_ChakraJump.cpp">
+      <Filter>05.State\Player\01.Custom\ChakraJump</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_Jump.cpp">
+      <Filter>05.State\Player\01.Custom\Jump</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_DoubleJump.cpp">
+      <Filter>05.State\Player\01.Custom\Jump</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_FallFront.cpp">
+      <Filter>05.State\Player\01.Custom\Fall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_Land.cpp">
+      <Filter>05.State\Player\01.Custom\Land</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_WhiteZetsu_Attack1.cpp">
+      <Filter>05.State\Monster\WhiteZetsu\Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_WhiteZetsu_AttackFar.cpp">
+      <Filter>05.State\Monster\WhiteZetsu\Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_WhiteZetsu_FlyAway.cpp">
+      <Filter>05.State\Monster\WhiteZetsu\Hit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_WhiteZetsu_Fall.cpp">
+      <Filter>05.State\Monster\WhiteZetsu\Fall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_WhiteZetsu_GetUp.cpp">
+      <Filter>05.State\Monster\WhiteZetsu\GetUp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_WhiteZetsu_Hit1.cpp">
+      <Filter>05.State\Monster\WhiteZetsu\Hit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_WhiteZetsu_Hit2.cpp">
+      <Filter>05.State\Monster\WhiteZetsu\Hit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_WhiteZetsu_FlyGround.cpp">
+      <Filter>05.State\Monster\WhiteZetsu\Hit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_WhiteZetsu_Die.cpp">
+      <Filter>05.State\Monster\WhiteZetsu\Die</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_WallAttach.cpp">
+      <Filter>05.State\Player\01.Custom\Land</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\TenTail.cpp">
+      <Filter>02.GameObjects\03.AnimModel\03.Monster\TenTail</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_TenTail_Appear.cpp">
+      <Filter>05.State\Monster\TenTail\Appear</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_TenTail_Attack.cpp">
+      <Filter>05.State\Monster\TenTail\Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_TenTail_Idle.cpp">
+      <Filter>05.State\Monster\TenTail\Idle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Boss_Kurama.cpp">
+      <Filter>02.GameObjects\03.AnimModel\03.Monster\Kurama</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Kurama_Appear.cpp">
+      <Filter>05.State\Boss\Kurama\Appear</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Kurama_Roar.cpp">
+      <Filter>05.State\Boss\Kurama\Roar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Kurama_Idle.cpp">
+      <Filter>05.State\Boss\Kurama\Idle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_TenTail_Chase.cpp">
+      <Filter>05.State\Monster\TenTail\Chase</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_TenTail_Dash.cpp">
+      <Filter>05.State\Monster\TenTail\Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Rasengan_CreateSmoke.cpp">
+      <Filter>02.GameObjects\06.Effect\Naruto\00.Rasengan</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Rasengan_Center.cpp">
+      <Filter>02.GameObjects\06.Effect\Naruto\00.Rasengan</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\RasenShuriken_Blade.cpp">
+      <Filter>02.GameObjects\06.Effect\Naruto\01.RasenShuriken</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\RasenShuriken_Circle.cpp">
+      <Filter>02.GameObjects\06.Effect\Naruto\01.RasenShuriken</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\RasenShuriken_BladeLine.cpp">
+      <Filter>02.GameObjects\06.Effect\Naruto\01.RasenShuriken</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\RasenShuriken_BladeFly.cpp">
+      <Filter>02.GameObjects\06.Effect\Naruto\01.RasenShuriken</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Skill.cpp">
+      <Filter>02.GameObjects\07.Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\RasenShuriken_Sphere.cpp">
+      <Filter>02.GameObjects\06.Effect\Naruto\01.RasenShuriken</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Skill_RasenShuriken.cpp">
+      <Filter>02.GameObjects\07.Skill\00.Naruto\RasenShuriken</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Skill_Rasengan.cpp">
+      <Filter>02.GameObjects\07.Skill\00.Naruto\Rasengan</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Rasengan_RunSmoke.cpp">
+      <Filter>02.GameObjects\06.Effect\Naruto\00.Rasengan</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\MassiveRasengan_Sphere.cpp">
+      <Filter>02.GameObjects\06.Effect\Naruto\02.MassiveRasengan</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Skill_MassiveRasengan.cpp">
+      <Filter>02.GameObjects\07.Skill\00.Naruto\MassiveRasengan</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\MassiveRasengan_Circle.cpp">
+      <Filter>02.GameObjects\06.Effect\Naruto\02.MassiveRasengan</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Kurama_Attack1.cpp">
+      <Filter>05.State\Boss\Kurama\Attack\Pattern1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Kurama_Attack2.cpp">
+      <Filter>05.State\Boss\Kurama\Attack\Pattern2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Kurama_JumpCrush.cpp">
+      <Filter>05.State\Boss\Kurama\Attack\JumpCrush</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Kurama_Bite.cpp">
+      <Filter>05.State\Boss\Kurama\Attack\Bite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Kurama_ChanceTime.cpp">
+      <Filter>05.State\Boss\Kurama\ChanceTime</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Kurama_Hit.cpp">
+      <Filter>05.State\Boss\Kurama\Hit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Kurama_FoxBlast.cpp">
+      <Filter>05.State\Boss\Kurama\SkillAttack\Blast</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Kurama_AerialBlast.cpp">
+      <Filter>05.State\Boss\Kurama\SkillAttack\AerialBlast</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Kurama_Die.cpp">
+      <Filter>05.State\Boss\Kurama\Die</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Skill_ChangeWood.cpp">
+      <Filter>02.GameObjects\07.Skill\99.ChangeWood</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Wood.cpp">
+      <Filter>02.GameObjects\02.NonAnimModel\Wood</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Sky.cpp">
+      <Filter>02.GameObjects\97.Sky</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Lightning.cpp">
+      <Filter>02.GameObjects\06.Effect\Sasuke\Chidori\Lightning</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_PunchRight.cpp">
+      <Filter>05.State\Player\01.Custom\00.NewBaseAttack\01.PucnhRight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_BackBlow.cpp">
+      <Filter>05.State\Player\01.Custom\BaseAttack\02.BackBlow</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_TurnKick.cpp">
+      <Filter>05.State\Player\01.Custom\BaseAttack\03.TurnKick</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_WindMill.cpp">
+      <Filter>05.State\Player\01.Custom\BaseAttack\04.WindMill</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Custom_Button.cpp">
+      <Filter>02.GameObjects\04.UI\Custom\CustomPannel\CustomButton</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Custom_Head.cpp">
+      <Filter>02.GameObjects\04.UI\Custom\CustomPannel\CustomHead</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Particle_Snow.cpp">
+      <Filter>02.GameObjects\05.Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Skill_Chidori.cpp">
+      <Filter>02.GameObjects\07.Skill\01.Sasuke\Chidori</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Chidori_Center.cpp">
+      <Filter>02.GameObjects\06.Effect\Sasuke\Chidori\Center</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_Chidori_Attack.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Sasuke\Chidori\02.Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_Chidori_Charge.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Sasuke\Chidori\00.Charge</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_Chidori_Run.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Sasuke\Chidori\01.Run</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\FireBall.cpp">
+      <Filter>02.GameObjects\06.Effect\Sasuke\FireBall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\FireBall_Effect.cpp">
+      <Filter>02.GameObjects\06.Effect\Sasuke\FireBall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\FireBall_FlySmoke.cpp">
+      <Filter>02.GameObjects\06.Effect\Sasuke\FireBall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\FootTrail.cpp">
+      <Filter>02.GameObjects\06.Effect\Trails\FootTrail</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Skill_FireBall.cpp">
+      <Filter>02.GameObjects\07.Skill\01.Sasuke\FireBall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_FireBall.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Sasuke\FireBall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Kirin.cpp">
+      <Filter>02.GameObjects\03.AnimModel\96.Kirin</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_MonsterHP.cpp">
+      <Filter>02.GameObjects\04.UI\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ColliderObject.cpp">
+      <Filter>02.GameObjects\ColliderObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Collider_PlayerAttack.cpp">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\AttackCollider</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Collider_MonsterAttack.cpp">
+      <Filter>02.GameObjects\03.AnimModel\03.Monster\AttackCollider</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_HIt1.cpp">
+      <Filter>05.State\Player\01.Custom\Hit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_HIt2.cpp">
+      <Filter>05.State\Player\01.Custom\Hit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_HItSpin.cpp">
+      <Filter>05.State\Player\01.Custom\Hit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_TextureScale.cpp">
+      <Filter>02.GameObjects\06.Effect\Kurama\Roar\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Skill_Roar.cpp">
+      <Filter>02.GameObjects\07.Skill\Boss\Roar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Particle_Hit.cpp">
+      <Filter>02.GameObjects\05.Particle\Hit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_Kirin.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Sasuke\Kirin</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Player_Dash.cpp">
+      <Filter>05.State\Player\Dash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_AerialChidori_Charge.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Sasuke\AerialChidori\00.Charge</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_AerialChidori_Run.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Sasuke\AerialChidori\01.Run</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_AerialChidori_Attack.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Sasuke\AerialChidori\02.Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_AerialFireBall.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Sasuke\AerialFireBall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Skill_Kirin.cpp">
+      <Filter>02.GameObjects\07.Skill\01.Sasuke\Kirin</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\JumpGuide.cpp">
+      <Filter>02.GameObjects\02.NonAnimModel\JumpGuide</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Amateras.cpp">
+      <Filter>02.GameObjects\06.Effect\SKill_Sarin\Amateras</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Fire05.cpp">
+      <Filter>02.GameObjects\06.Effect\Fire</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Skill_Amateras.cpp">
+      <Filter>02.GameObjects\07.Skill\Amateras</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_Amateras.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Sarin\Amateras</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Boss_Susanoo.cpp">
+      <Filter>02.GameObjects\03.AnimModel\03.Monster\Susanoo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Susanoo_Idle.cpp">
+      <Filter>05.State\Boss\Susanoo\Idle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Susanoo_Appear.cpp">
+      <Filter>05.State\Boss\Susanoo\Appear</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Susanoo_Roar.cpp">
+      <Filter>05.State\Boss\Susanoo\Roar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\SusanooBlade.cpp">
+      <Filter>02.GameObjects\03.AnimModel\03.Monster\Susanoo\Blade</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Susanoo_Die.cpp">
+      <Filter>05.State\Boss\Susanoo\Die</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Susanoo_ChanceTime.cpp">
+      <Filter>05.State\Boss\Susanoo\ChanceTime</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Susanoo_Hit.cpp">
+      <Filter>05.State\Boss\Susanoo\HIT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Susanoo_DoubleSlash.cpp">
+      <Filter>05.State\Boss\Susanoo\Attack\DoubleSlash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Susanoo_GroundPunch.cpp">
+      <Filter>05.State\Boss\Susanoo\Attack\GroundPunch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ExplosionSphere.cpp">
+      <Filter>02.GameObjects\06.Effect\Naruto\01.RasenShuriken\Explosion</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ChidoriTrail.cpp">
+      <Filter>02.GameObjects\06.Effect\Trails\ChidoriTrail</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\RasenganRing.cpp">
+      <Filter>02.GameObjects\06.Effect\Naruto\03.RasenganRing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Public\UI_PlayerHP.cpp">
+      <Filter>02.GameObjects\04.UI\Player\HP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_PlayerSkill.cpp">
+      <Filter>02.GameObjects\04.UI\Player\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_PlayerSP.cpp">
+      <Filter>02.GameObjects\04.UI\Player\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_HitNum.cpp">
+      <Filter>02.GameObjects\04.UI\Player\Hit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Level_Ame.cpp">
+      <Filter>01.Levels\GamePlay\Ame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Level_Chunin.cpp">
+      <Filter>01.Levels\GamePlay\Chunin</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Level_Konoha.cpp">
+      <Filter>01.Levels\GamePlay\Konoha</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Sasuke_Next.cpp">
+      <Filter>02.GameObjects\03.AnimModel\04.NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_TextWindow.cpp">
+      <Filter>02.GameObjects\04.UI\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Susanoo_Rising.cpp">
+      <Filter>05.State\Boss\Susanoo\Attack\Rising</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Susanoo_GroundSlash.cpp">
+      <Filter>05.State\Boss\Susanoo\Attack\GroundSlash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ExplosionCircle.cpp">
+      <Filter>02.GameObjects\06.Effect\Susanoo\GroundSlash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Skill_GroundSlash.cpp">
+      <Filter>02.GameObjects\07.Skill\Boss\GroundSlash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\BladeSlash.cpp">
+      <Filter>02.GameObjects\06.Effect\Susanoo\BladeSlash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Particle_Up.cpp">
+      <Filter>02.GameObjects\05.Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_Rasengun_Charge.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Skill_Rasengan\00.Charge</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_Rasengun_Run.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Skill_Rasengan\01.Run</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_Rasengun_Attack.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Skill_Rasengan\02.Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_AerialRasengun_Attack.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Skill_AerialRasengun\02.Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_AerialRasengun_Charge.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Skill_AerialRasengun\00.Charge</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_AerialRasengun_Run.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Skill_AerialRasengun\01.Run</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_AerialRasenShuriken.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Skill_AerialRasenShuriken</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_RasenShuriken.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Skill_RasenShuriken</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Shadow_Custom.cpp">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Custom\Shadow</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_MassiveRasengan.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Naruto\Skill_MassiveRasengun</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_BossHP.cpp">
+      <Filter>02.GameObjects\04.UI\Monster\BossHP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\FoxSphere.cpp">
+      <Filter>02.GameObjects\06.Effect\Kurama\FoxSphere</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\AreaCircle.cpp">
+      <Filter>02.GameObjects\02.NonAnimModel\AreaCircle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\WireTrail.cpp">
+      <Filter>02.GameObjects\06.Effect\Trails\WireTail</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_WireReady.cpp">
+      <Filter>05.State\Player\01.Custom\Wire\Ready</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_WireDash.cpp">
+      <Filter>05.State\Player\01.Custom\Wire\WireDash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\FoxExplosionSphere.cpp">
+      <Filter>02.GameObjects\06.Effect\Kurama\FoxSphere</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\FoxBlast.cpp">
+      <Filter>02.GameObjects\06.Effect\Kurama\FoxBlast</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_TypeZeroAttack.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Minato\TypeZero</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_TypeZero.cpp">
+      <Filter>02.GameObjects\06.Effect\Minato\TypeZero</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_TypeZeroCircle.cpp">
+      <Filter>02.GameObjects\06.Effect\Minato\TypeZero\Circle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_RasenkoStar.cpp">
+      <Filter>02.GameObjects\06.Effect\Minato\Rasenko</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_Rasenko.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Minato\Rasenko</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Kunai_Minato.cpp">
+      <Filter>02.GameObjects\02.NonAnimModel\MinatoKunai</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_RasenkoHit.cpp">
+      <Filter>02.GameObjects\06.Effect\Minato\Rasenko\Hit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_Raijin.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Minato\Raijin</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_Tsukuyomi01.cpp">
+      <Filter>02.GameObjects\06.Effect\SKill_Sarin\Tsukuyomi</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Skill_Tsukuyomi.cpp">
+      <Filter>02.GameObjects\07.Skill\Tsukuyomi</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_WhiteZestu_BackDash.cpp">
+      <Filter>05.State\Monster\WhiteZetsu\BackDash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_WhiteZetsu_Groggy.cpp">
+      <Filter>05.State\Monster\WhiteZetsu\Groggy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_WhiteZetsu_HitDown.cpp">
+      <Filter>05.State\Monster\WhiteZetsu\HitDown</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_GroundBreak.cpp">
+      <Filter>02.GameObjects\02.NonAnimModel\GroundBreak</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Smoke11.cpp">
+      <Filter>02.GameObjects\06.Effect\Smoke\Smoke11</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\SmokeRing.cpp">
+      <Filter>02.GameObjects\06.Effect\Smoke\SmokeRing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_PunchLeft.cpp">
+      <Filter>05.State\Player\01.Custom\00.NewBaseAttack\00.PunchLeft</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_DoubleSlash.cpp">
+      <Filter>05.State\Player\01.Custom\00.NewBaseAttack\02.DoubleSlash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_GroundPunch.cpp">
+      <Filter>05.State\Player\01.Custom\00.NewBaseAttack\03.GroundPunch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_Slash.cpp">
+      <Filter>05.State\Player\01.Custom\00.NewBaseAttack\04.Slash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_RisingKick.cpp">
+      <Filter>05.State\Player\01.Custom\00.NewBaseAttack\05.RisingKick</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_DoubleHandPunch.cpp">
+      <Filter>05.State\Player\01.Custom\00.NewBaseAttack\06.DoubleHandPunch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_Tsukuyomi.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Sarin\Tsukuyomi</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Custom_Susanoo.cpp">
+      <Filter>05.State\Player\01.Custom\Skill_Sarin\Susanoo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Skill_Susanoo.cpp">
+      <Filter>02.GameObjects\03.AnimModel\05.SkillSusanoo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_Distortion.cpp">
+      <Filter>02.GameObjects\06.Effect\Distortion</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_Target.cpp">
+      <Filter>02.GameObjects\04.UI\Target</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_TitleButton.cpp">
+      <Filter>02.GameObjects\04.UI\Title\TitleButton</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Kurama_Leave.cpp">
+      <Filter>05.State\Boss\Kurama\Leave</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_BossTarget.cpp">
+      <Filter>02.GameObjects\04.UI\Monster\BossIcon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Particle_FireBall.cpp">
+      <Filter>02.GameObjects\05.Particle\FireBall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Kurama_Heal.cpp">
+      <Filter>05.State\Boss\Kurama\Heal</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Kurama_SpecialAttack.cpp">
+      <Filter>05.State\Boss\Kurama\SkillAttack\SpecialAttack</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Kurama_ThreeBlast.cpp">
+      <Filter>05.State\Boss\Kurama\SkillAttack\ThreeBlast</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Skill_KuramaRasengan.cpp">
+      <Filter>02.GameObjects\07.Skill\Boss\KuramaRasengan</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Kurama_Jump.cpp">
+      <Filter>05.State\Boss\Kurama\Jump</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Kurama_Fall.cpp">
+      <Filter>05.State\Boss\Kurama\Fall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Player_MotionTrail.cpp">
+      <Filter>02.GameObjects\03.AnimModel\02.Player\Player_Custom\MotionTrail</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_ConfirmButton.cpp">
+      <Filter>02.GameObjects\04.UI\Custom\CustomPannel\ConfirmButon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Particle_Misuok.cpp">
+      <Filter>02.GameObjects\05.Particle\Misuok</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Client.ico">
+      <Filter>98.Default</Filter>
+    </Image>
+    <Image Include="small.ico">
+      <Filter>98.Default</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Client.rc">
+      <Filter>98.Default</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>98.Default</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxPosTex.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxNorTex.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxModel.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxAnimModel.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_Cell.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_Effect.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_Effect_Texture.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxCubeTex.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxPointInstance.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxRectInstance.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxTrailInstance.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

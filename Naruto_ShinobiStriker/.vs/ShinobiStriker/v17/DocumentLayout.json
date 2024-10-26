@@ -1,0 +1,1997 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Boss_Susanoo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Boss_Susanoo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Level_Konoha.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Level_Konoha.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Level_Konoha.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Level_Konoha.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Level_Chunin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Level_Chunin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Level_Chunin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Level_Chunin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\GameInstance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Private\\GameInstance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Level_Custom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Level_Custom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\UI_ConfirmButton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\UI_ConfirmButton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Level_Custom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Level_Custom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\GameInstance.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Public\\GameInstance.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\Sound_Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Public\\Sound_Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\Sound_Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Private\\Sound_Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\CustomPannel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\CustomPannel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\CustomPannel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\CustomPannel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Custom_Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Custom_Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\Sound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Private\\Sound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\Sound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Public\\Sound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\UI_ConfirmButton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\UI_ConfirmButton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Public\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\private\\Loader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\private\\Loader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Custom_Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Custom_Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Level_Logo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Level_Logo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Level_Logo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Level_Logo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_TypeZeroAttack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_TypeZeroAttack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Rasenko.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_Rasenko.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Raijin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_Raijin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Head_Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Head_Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\BodyOnce_Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\BodyOnce_Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\BodyUpper_Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\BodyUpper_Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Face_Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Face_Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\BodyLower_Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\BodyLower_Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Kirin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_Kirin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_FireBall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_FireBall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Chidori_Charge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_Chidori_Charge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialFireBall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_AerialFireBall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialChidori_Charge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_AerialChidori_Charge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Tsukuyomi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_Tsukuyomi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Susanoo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_Susanoo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Amateras.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_Amateras.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_RasenShuriken.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\State_Custom_RasenShuriken.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_RasenShuriken.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_RasenShuriken.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Rasengun_Charge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_Rasengun_Charge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_MassiveRasengan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_MassiveRasengan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialRasenShuriken.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_AerialRasenShuriken.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialRasengun_Charge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_AerialRasengun_Charge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Public\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Private\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\j\\Desktop\\Bin\\ShaderFiles\\Shader_VtxAnimModel.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\j\\Desktop\\Bin\\ShaderFiles\\Shader_Deferred.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Collider_PlayerAttack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Collider_PlayerAttack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Kurama_ThreeBlast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Kurama_ThreeBlast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Kurama_AerialBlast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Kurama_AerialBlast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Kurama_Idle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Kurama_Idle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Kurama_Roar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Kurama_Roar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Kurama_AerialBlast.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\State_Kurama_AerialBlast.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_RisingKick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_RisingKick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_RisingKick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\State_Custom_RisingKick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Boss_Kurama.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Boss_Kurama.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Kurama_Appear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Kurama_Appear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Kurama_Fall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Kurama_Fall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Skill_Tsukuyomi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Skill_Tsukuyomi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Collider_PlayerAttack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Collider_PlayerAttack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Player_Custom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Player_Custom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Land.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_Land.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_DoubleJump.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_DoubleJump.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Jump.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_Jump.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Run.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_Run.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Player_Custom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Player_Custom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_HItSpin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_HItSpin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_HIt1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_HIt1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_GroundPunch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_GroundPunch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_HIt2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_HIt2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_PunchLeft.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_PunchLeft.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_DoubleHandPunch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_DoubleHandPunch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_PunchRight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_PunchRight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Chidori_Attack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_Chidori_Attack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialChidori_Attack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_AerialChidori_Attack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Rasengun_Attack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_Rasengun_Attack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_AerialRasenShuriken.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\State_Custom_AerialRasenShuriken.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialRasengun_Attack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_AerialRasengun_Attack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialRasengun_Run.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_AerialRasengun_Run.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Player_MotionTrail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Player_MotionTrail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Player_MotionTrail.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Player_MotionTrail.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Private\\Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\BodyOnce_Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\BodyOnce_Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Client_Defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Client_Defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Shadow_Custom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Shadow_Custom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Shadow_Custom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Shadow_Custom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Bin\\ShaderFiles\\Shader_MotionTrail.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Bin\\ShaderFiles\\Shader_MotionTrail.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\PartObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Public\\PartObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\ChidoriTrail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\ChidoriTrail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Skill_Chidori.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Skill_Chidori.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Skill_Susanoo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Skill_Susanoo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Skill_Chidori.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Skill_Chidori.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_Susanoo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\State_Custom_Susanoo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\NonAnimModel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\NonAnimModel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\RenderTarget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Private\\RenderTarget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\Target_Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Private\\Target_Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\RenderTarget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Public\\RenderTarget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\Graphic_Device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Public\\Graphic_Device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\Target_Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Public\\Target_Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_WhiteZetsu_HitDown.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_WhiteZetsu_HitDown.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Slash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_Slash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_DoubleHandPunch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\State_Custom_DoubleHandPunch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_WhiteZetsu_Fall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_WhiteZetsu_Fall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_PunchLeft.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\State_Custom_PunchLeft.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_Jump.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\State_Custom_Jump.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_Slash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\State_Custom_Slash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_DoubleSlash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_DoubleSlash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_DoubleSlash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\State_Custom_DoubleSlash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_WhiteZetsu_FlyAway.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_WhiteZetsu_FlyAway.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_WhiteZetsu_FlyGround.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_WhiteZetsu_FlyGround.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_WhiteZetsu_Hit2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_WhiteZetsu_Hit2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\WhiteZetsu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\WhiteZetsu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\WhiteZetsu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\WhiteZetsu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_PunchRight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\State_Custom_PunchRight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_GroundPunch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\State_Custom_GroundPunch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4563335-524D-4360-94C0-EAC189EC5EC3}|Engine\\Default\\Engine.vcxproj|solutionrelative:Engine\\Private\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Idle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02C9AE80-95A1-4337-B9D1-3346442914EB}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\State_Custom_Idle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\Renderer.cpp",
+              "RelativeDocumentMoniker": "Engine\\Private\\Renderer.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\Renderer.cpp",
+              "RelativeToolTip": "Engine\\Private\\Renderer.cpp",
+              "ViewState": "AQIAABQCAAAAAAAAAAAgwBoCAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T00:03:57.937Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Level_Chunin.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Level_Chunin.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Level_Chunin.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Level_Chunin.h",
+              "RelativeToolTip": "Client\\Public\\Level_Chunin.h",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T15:52:11.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Boss_Susanoo.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Boss_Susanoo.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Boss_Susanoo.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Boss_Susanoo.cpp",
+              "RelativeToolTip": "Client\\Private\\Boss_Susanoo.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T15:50:36.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UI_ConfirmButton.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\UI_ConfirmButton.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\UI_ConfirmButton.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\UI_ConfirmButton.cpp",
+              "RelativeToolTip": "Client\\Private\\UI_ConfirmButton.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAMwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T13:44:35.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Level_Chunin.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Level_Chunin.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Level_Chunin.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Level_Chunin.cpp",
+              "RelativeToolTip": "Client\\Private\\Level_Chunin.cpp",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAMwPEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T23:52:51.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Level_Konoha.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Level_Konoha.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Level_Konoha.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Level_Konoha.cpp",
+              "RelativeToolTip": "Client\\Private\\Level_Konoha.cpp",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAMwNsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T15:06:20.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Level_Konoha.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Level_Konoha.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Level_Konoha.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Level_Konoha.h",
+              "RelativeToolTip": "Client\\Public\\Level_Konoha.h",
+              "ViewState": "AQIAADwAAAAAAAAAAADwv0EAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T15:11:57.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Level_Custom.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Level_Custom.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Level_Custom.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Level_Custom.h",
+              "RelativeToolTip": "Client\\Public\\Level_Custom.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T14:16:33.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameInstance.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\GameInstance.cpp",
+              "RelativeDocumentMoniker": "Engine\\Private\\GameInstance.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\GameInstance.cpp",
+              "RelativeToolTip": "Engine\\Private\\GameInstance.cpp",
+              "ViewState": "AQIAAAYBAAAAAAAAAAAMwBYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T00:23:44.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Level_Custom.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Level_Custom.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Level_Custom.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Level_Custom.cpp",
+              "RelativeToolTip": "Client\\Private\\Level_Custom.cpp",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAFkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T13:40:57.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Monster.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Monster.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Monster.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Monster.cpp",
+              "RelativeToolTip": "Client\\Private\\Monster.cpp",
+              "ViewState": "AQIAAAcBAAAAAAAAAAAAAIMBAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T19:41:36.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameInstance.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\GameInstance.h",
+              "RelativeDocumentMoniker": "Engine\\Public\\GameInstance.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\GameInstance.h",
+              "RelativeToolTip": "Engine\\Public\\GameInstance.h",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAAIMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T00:23:33.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sound_Manager.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\Sound_Manager.cpp",
+              "RelativeDocumentMoniker": "Engine\\Private\\Sound_Manager.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\Sound_Manager.cpp",
+              "RelativeToolTip": "Engine\\Private\\Sound_Manager.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:17:32.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sound_Manager.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\Sound_Manager.h",
+              "RelativeDocumentMoniker": "Engine\\Public\\Sound_Manager.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\Sound_Manager.h",
+              "RelativeToolTip": "Engine\\Public\\Sound_Manager.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAMwCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T15:31:29.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomPannel.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\CustomPannel.h",
+              "RelativeDocumentMoniker": "Client\\Public\\CustomPannel.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\CustomPannel.h",
+              "RelativeToolTip": "Client\\Public\\CustomPannel.h",
+              "ViewState": "AQIAACQAAAAAAAAAAAAMwDIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T14:17:09.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Player.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Player.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Player.cpp",
+              "RelativeToolTip": "Client\\Private\\Player.cpp",
+              "ViewState": "AQIAABwCAAAAAAAAAAAMwCMCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T18:26:44.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Player.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Player.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Player.h",
+              "RelativeToolTip": "Client\\Public\\Player.h",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAAAPYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-15T20:10:35.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomPannel.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\CustomPannel.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\CustomPannel.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\CustomPannel.cpp",
+              "RelativeToolTip": "Client\\Private\\CustomPannel.cpp",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAANkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T13:58:45.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Custom_Button.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Custom_Button.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Custom_Button.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Custom_Button.h",
+              "RelativeToolTip": "Client\\Public\\Custom_Button.h",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAE8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T13:43:24.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
+              "ViewState": "AQIAAFEHAAAAAAAAAAAMwGAHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-22T15:18:56.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Sound.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\Sound.cpp",
+              "RelativeDocumentMoniker": "Engine\\Private\\Sound.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\Sound.cpp",
+              "RelativeToolTip": "Engine\\Private\\Sound.cpp",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAcwG0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:22:01.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GameObject.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\GameObject.h",
+              "RelativeDocumentMoniker": "Engine\\Public\\GameObject.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\GameObject.h",
+              "RelativeToolTip": "Engine\\Public\\GameObject.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAMwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-21T16:17:30.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UI_ConfirmButton.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\UI_ConfirmButton.h",
+              "RelativeDocumentMoniker": "Client\\Public\\UI_ConfirmButton.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\UI_ConfirmButton.h",
+              "RelativeToolTip": "Client\\Public\\UI_ConfirmButton.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T13:44:22.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Sound.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\Sound.h",
+              "RelativeDocumentMoniker": "Engine\\Public\\Sound.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\Sound.h",
+              "RelativeToolTip": "Engine\\Public\\Sound.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvyEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T15:09:40.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Loader.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Loader.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Loader.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Loader.cpp",
+              "RelativeToolTip": "Client\\Private\\Loader.cpp",
+              "ViewState": "AQIAAPgCAAAAAAAAAAAAAAkDAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T18:31:10.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Custom_Button.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Custom_Button.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Custom_Button.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Custom_Button.cpp",
+              "RelativeToolTip": "Client\\Private\\Custom_Button.cpp",
+              "ViewState": "AQIAACYAAAAAAAAAAAAcwJwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T13:44:34.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Level_Logo.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Level_Logo.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Level_Logo.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Level_Logo.h",
+              "RelativeToolTip": "Client\\Public\\Level_Logo.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T13:40:40.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Level_Logo.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Level_Logo.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Level_Logo.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Level_Logo.cpp",
+              "RelativeToolTip": "Client\\Private\\Level_Logo.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T13:40:26.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "State_Custom_Raijin.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Raijin.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_Raijin.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Raijin.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_Raijin.cpp",
+              "ViewState": "AQIAAFQAAAAAAAAAAADwv2oAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:24:59.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "State_Custom_Rasenko.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Rasenko.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_Rasenko.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Rasenko.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_Rasenko.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAADwvz0AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T16:21:31.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Head_Player.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Head_Player.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Head_Player.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Head_Player.cpp",
+              "RelativeToolTip": "Client\\Private\\Head_Player.cpp",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwC8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T13:23:58.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "State_Custom_TypeZeroAttack.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_TypeZeroAttack.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_TypeZeroAttack.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_TypeZeroAttack.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_TypeZeroAttack.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAADwvz0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:23:33.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "State_Custom_AerialFireBall.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialFireBall.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_AerialFireBall.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialFireBall.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_AerialFireBall.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvysAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:40:15.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BodyLower_Player.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\BodyLower_Player.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\BodyLower_Player.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\BodyLower_Player.cpp",
+              "RelativeToolTip": "Client\\Private\\BodyLower_Player.cpp",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwDwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T13:23:34.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BodyUpper_Player.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\BodyUpper_Player.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\BodyUpper_Player.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\BodyUpper_Player.cpp",
+              "RelativeToolTip": "Client\\Private\\BodyUpper_Player.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAgwD4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T13:23:49.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "State_Custom_Chidori_Charge.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Chidori_Charge.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_Chidori_Charge.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Chidori_Charge.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_Chidori_Charge.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvysAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:40:24.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BodyOnce_Player.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\BodyOnce_Player.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\BodyOnce_Player.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\BodyOnce_Player.cpp",
+              "RelativeToolTip": "Client\\Private\\BodyOnce_Player.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAgwD4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T16:16:44.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "State_Custom_FireBall.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_FireBall.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_FireBall.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_FireBall.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_FireBall.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvyUAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:40:36.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Face_Player.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Face_Player.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Face_Player.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Face_Player.cpp",
+              "RelativeToolTip": "Client\\Private\\Face_Player.cpp",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T16:56:51.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "State_Custom_Kirin.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Kirin.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_Kirin.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Kirin.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_Kirin.cpp",
+              "ViewState": "AQIAAEgAAAAAAAAAAADwv1cAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:40:47.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "State_Custom_AerialChidori_Charge.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialChidori_Charge.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_AerialChidori_Charge.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialChidori_Charge.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_AerialChidori_Charge.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvzMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:39:49.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "State_Custom_Tsukuyomi.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Tsukuyomi.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_Tsukuyomi.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Tsukuyomi.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_Tsukuyomi.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:28:26.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "State_Custom_Susanoo.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Susanoo.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_Susanoo.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Susanoo.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_Susanoo.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T17:57:30.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "State_Custom_Amateras.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Amateras.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_Amateras.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Amateras.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_Amateras.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvyYAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:27:17.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "State_Custom_RasenShuriken.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_RasenShuriken.h",
+              "RelativeDocumentMoniker": "Client\\Public\\State_Custom_RasenShuriken.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_RasenShuriken.h",
+              "RelativeToolTip": "Client\\Public\\State_Custom_RasenShuriken.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T13:22:16.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "State_Custom_Rasengun_Charge.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Rasengun_Charge.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_Rasengun_Charge.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Rasengun_Charge.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_Rasengun_Charge.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAADwvyoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:26:33.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "State_Custom_MassiveRasengan.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_MassiveRasengan.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_MassiveRasengan.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_MassiveRasengan.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_MassiveRasengan.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvzIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:26:26.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "State_Custom_AerialRasenShuriken.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialRasenShuriken.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_AerialRasenShuriken.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialRasenShuriken.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_AerialRasenShuriken.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvz0AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:26:19.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "State_Custom_RasenShuriken.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_RasenShuriken.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_RasenShuriken.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_RasenShuriken.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_RasenShuriken.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvzEAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:27:09.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "State_Custom_AerialRasengun_Charge.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialRasengun_Charge.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_AerialRasengun_Charge.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialRasengun_Charge.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_AerialRasengun_Charge.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvzEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:25:41.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Renderer.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\Renderer.h",
+              "RelativeDocumentMoniker": "Engine\\Public\\Renderer.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\Renderer.h",
+              "RelativeToolTip": "Engine\\Public\\Renderer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-16T23:55:58.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Shader_VtxAnimModel.hlsl",
+              "DocumentMoniker": "C:\\Users\\j\\Desktop\\Bin\\ShaderFiles\\Shader_VtxAnimModel.hlsl",
+              "ToolTip": "C:\\Users\\j\\Desktop\\Bin\\ShaderFiles\\Shader_VtxAnimModel.hlsl",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-10-21T19:33:35.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "State_Kurama_AerialBlast.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Kurama_AerialBlast.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Kurama_AerialBlast.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Kurama_AerialBlast.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Kurama_AerialBlast.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvx4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T19:08:18.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "State_Kurama_Roar.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Kurama_Roar.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Kurama_Roar.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Kurama_Roar.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Kurama_Roar.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvxgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T19:08:42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "State_Kurama_ThreeBlast.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Kurama_ThreeBlast.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Kurama_ThreeBlast.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Kurama_ThreeBlast.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Kurama_ThreeBlast.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvycAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T19:10:35.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Shader_Deferred.hlsl",
+              "DocumentMoniker": "C:\\Users\\j\\Desktop\\Bin\\ShaderFiles\\Shader_Deferred.hlsl",
+              "ToolTip": "C:\\Users\\j\\Desktop\\Bin\\ShaderFiles\\Shader_Deferred.hlsl",
+              "ViewState": "AQIAACcBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-10-21T19:33:13.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Collider_PlayerAttack.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Collider_PlayerAttack.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Collider_PlayerAttack.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Collider_PlayerAttack.cpp",
+              "RelativeToolTip": "Client\\Private\\Collider_PlayerAttack.cpp",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAAAAkBAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T19:26:40.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "State_Kurama_Idle.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Kurama_Idle.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Kurama_Idle.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Kurama_Idle.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Kurama_Idle.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvzIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T19:09:12.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "State_Kurama_AerialBlast.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Kurama_AerialBlast.h",
+              "RelativeDocumentMoniker": "Client\\Public\\State_Kurama_AerialBlast.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Kurama_AerialBlast.h",
+              "RelativeToolTip": "Client\\Public\\State_Kurama_AerialBlast.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-21T19:08:18.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Boss_Kurama.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Boss_Kurama.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Boss_Kurama.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Boss_Kurama.cpp",
+              "RelativeToolTip": "Client\\Private\\Boss_Kurama.cpp",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAAAAUBAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T19:06:11.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Monster.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Monster.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Monster.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Monster.h",
+              "RelativeToolTip": "Client\\Public\\Monster.h",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAMwDMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-15T19:38:03.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "State_Custom_RisingKick.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_RisingKick.h",
+              "RelativeDocumentMoniker": "Client\\Public\\State_Custom_RisingKick.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_RisingKick.h",
+              "RelativeToolTip": "Client\\Public\\State_Custom_RisingKick.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-15T20:16:17.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "State_Custom_RisingKick.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_RisingKick.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_RisingKick.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_RisingKick.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_RisingKick.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T20:16:22.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "State_Kurama_Appear.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Kurama_Appear.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Kurama_Appear.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Kurama_Appear.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Kurama_Appear.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T19:04:45.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "State_Kurama_Fall.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Kurama_Fall.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Kurama_Fall.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Kurama_Fall.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Kurama_Fall.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvxwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T19:04:59.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Collider_PlayerAttack.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Collider_PlayerAttack.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Collider_PlayerAttack.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Collider_PlayerAttack.h",
+              "RelativeToolTip": "Client\\Public\\Collider_PlayerAttack.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-15T19:26:46.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "State_Custom_Land.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Land.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_Land.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Land.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_Land.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T18:00:42.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Player_Custom.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Player_Custom.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Player_Custom.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Player_Custom.h",
+              "RelativeToolTip": "Client\\Public\\Player_Custom.h",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAK0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-15T20:10:32.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Skill_Tsukuyomi.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Skill_Tsukuyomi.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Skill_Tsukuyomi.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Skill_Tsukuyomi.cpp",
+              "RelativeToolTip": "Client\\Private\\Skill_Tsukuyomi.cpp",
+              "ViewState": "AQIAACwAAAAAAAAAAAAMwDQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T19:49:12.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "State_Custom_HIt1.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_HIt1.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_HIt1.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_HIt1.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_HIt1.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvyIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:51:21.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "State_Custom_Run.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Run.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_Run.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Run.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_Run.cpp",
+              "ViewState": "AQIAAGMAAAAAAAAAAADwv3EAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:59:42.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "State_Custom_DoubleJump.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_DoubleJump.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_DoubleJump.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_DoubleJump.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_DoubleJump.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvyIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T18:00:01.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "State_Custom_Jump.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Jump.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_Jump.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Jump.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_Jump.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T20:21:54.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "State_Custom_HItSpin.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_HItSpin.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_HItSpin.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_HItSpin.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_HItSpin.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvzEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:51:54.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Player_Custom.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Player_Custom.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Player_Custom.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Player_Custom.cpp",
+              "RelativeToolTip": "Client\\Private\\Player_Custom.cpp",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAAALEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T18:30:44.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "State_Custom_GroundPunch.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_GroundPunch.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_GroundPunch.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_GroundPunch.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_GroundPunch.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T18:33:16.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "State_Custom_PunchLeft.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_PunchLeft.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_PunchLeft.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_PunchLeft.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_PunchLeft.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T18:22:03.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "State_Custom_HIt2.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_HIt2.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_HIt2.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_HIt2.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_HIt2.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvyIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:51:46.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "State_Custom_DoubleHandPunch.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_DoubleHandPunch.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_DoubleHandPunch.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_DoubleHandPunch.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_DoubleHandPunch.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T20:38:57.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "State_Custom_PunchRight.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_PunchRight.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_PunchRight.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_PunchRight.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_PunchRight.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T18:22:10.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "State_Custom_Chidori_Attack.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Chidori_Attack.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_Chidori_Attack.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Chidori_Attack.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_Chidori_Attack.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:40:29.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "State_Custom_AerialChidori_Attack.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialChidori_Attack.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_AerialChidori_Attack.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialChidori_Attack.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_AerialChidori_Attack.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvxwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:39:59.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "State_Custom_Rasengun_Attack.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Rasengun_Attack.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_Rasengun_Attack.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Rasengun_Attack.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_Rasengun_Attack.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvxoAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:27:03.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "State_Custom_AerialRasenShuriken.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_AerialRasenShuriken.h",
+              "RelativeDocumentMoniker": "Client\\Public\\State_Custom_AerialRasenShuriken.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_AerialRasenShuriken.h",
+              "RelativeToolTip": "Client\\Public\\State_Custom_AerialRasenShuriken.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-21T17:26:18.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "State_Custom_AerialRasengun_Attack.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialRasengun_Attack.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_AerialRasengun_Attack.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialRasengun_Attack.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_AerialRasengun_Attack.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxoAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:26:10.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "State_Custom_AerialRasengun_Run.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialRasengun_Run.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_AerialRasengun_Run.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_AerialRasengun_Run.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_AerialRasengun_Run.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T17:26:00.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Player_MotionTrail.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Player_MotionTrail.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Player_MotionTrail.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Player_MotionTrail.cpp",
+              "RelativeToolTip": "Client\\Private\\Player_MotionTrail.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T16:48:50.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Model.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\Model.cpp",
+              "RelativeDocumentMoniker": "Engine\\Private\\Model.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\Model.cpp",
+              "RelativeToolTip": "Engine\\Private\\Model.cpp",
+              "ViewState": "AQIAAIgBAAAAAAAAAAAAAJoBAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T18:53:14.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Player_MotionTrail.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Player_MotionTrail.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Player_MotionTrail.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Player_MotionTrail.h",
+              "RelativeToolTip": "Client\\Public\\Player_MotionTrail.h",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-21T16:43:32.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Shadow_Custom.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Shadow_Custom.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Shadow_Custom.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Shadow_Custom.h",
+              "RelativeToolTip": "Client\\Public\\Shadow_Custom.h",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAFMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-21T16:48:46.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "BodyOnce_Player.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\BodyOnce_Player.h",
+              "RelativeDocumentMoniker": "Client\\Public\\BodyOnce_Player.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\BodyOnce_Player.h",
+              "RelativeToolTip": "Client\\Public\\BodyOnce_Player.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-21T16:56:06.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Client_Defines.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Client_Defines.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Client_Defines.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Client_Defines.h",
+              "RelativeToolTip": "Client\\Public\\Client_Defines.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-21T16:54:08.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Shadow_Custom.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Shadow_Custom.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Shadow_Custom.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Shadow_Custom.cpp",
+              "RelativeToolTip": "Client\\Private\\Shadow_Custom.cpp",
+              "ViewState": "AQIAAEcBAAAAAAAAAAAAAGcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T20:44:12.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Shader_MotionTrail.hlsl",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Bin\\ShaderFiles\\Shader_MotionTrail.hlsl",
+              "RelativeDocumentMoniker": "Engine\\Bin\\ShaderFiles\\Shader_MotionTrail.hlsl",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Bin\\ShaderFiles\\Shader_MotionTrail.hlsl",
+              "RelativeToolTip": "Engine\\Bin\\ShaderFiles\\Shader_MotionTrail.hlsl",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-10-21T15:53:36.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Skill_Susanoo.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Skill_Susanoo.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Skill_Susanoo.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Skill_Susanoo.h",
+              "RelativeToolTip": "Client\\Public\\Skill_Susanoo.h",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwDsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T15:54:22.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "PartObject.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\PartObject.h",
+              "RelativeDocumentMoniker": "Engine\\Public\\PartObject.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\PartObject.h",
+              "RelativeToolTip": "Engine\\Public\\PartObject.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvxgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-21T16:19:35.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "NonAnimModel.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\NonAnimModel.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\NonAnimModel.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\NonAnimModel.cpp",
+              "RelativeToolTip": "Client\\Private\\NonAnimModel.cpp",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAMwEcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T15:03:43.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Skill_Chidori.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Skill_Chidori.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Skill_Chidori.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\Skill_Chidori.cpp",
+              "RelativeToolTip": "Client\\Private\\Skill_Chidori.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T18:05:25.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ChidoriTrail.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\ChidoriTrail.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\ChidoriTrail.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\ChidoriTrail.cpp",
+              "RelativeToolTip": "Client\\Private\\ChidoriTrail.cpp",
+              "ViewState": "AQIAACUAAAAAAAAAAAAMwCsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T18:09:06.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Graphic_Device.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\Graphic_Device.h",
+              "RelativeDocumentMoniker": "Engine\\Public\\Graphic_Device.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\Graphic_Device.h",
+              "RelativeToolTip": "Engine\\Public\\Graphic_Device.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T00:39:03.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Skill_Chidori.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Skill_Chidori.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Skill_Chidori.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\Skill_Chidori.h",
+              "RelativeToolTip": "Client\\Public\\Skill_Chidori.h",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvzkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T15:56:35.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "State_Custom_Susanoo.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_Susanoo.h",
+              "RelativeDocumentMoniker": "Client\\Public\\State_Custom_Susanoo.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_Susanoo.h",
+              "RelativeToolTip": "Client\\Public\\State_Custom_Susanoo.h",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvyYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T17:59:18.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "RenderTarget.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\RenderTarget.cpp",
+              "RelativeDocumentMoniker": "Engine\\Private\\RenderTarget.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\RenderTarget.cpp",
+              "RelativeToolTip": "Engine\\Private\\RenderTarget.cpp",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T23:57:45.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "Target_Manager.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\Target_Manager.h",
+              "RelativeDocumentMoniker": "Engine\\Public\\Target_Manager.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\Target_Manager.h",
+              "RelativeToolTip": "Engine\\Public\\Target_Manager.h",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABUAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-16T23:58:49.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "RenderTarget.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\RenderTarget.h",
+              "RelativeDocumentMoniker": "Engine\\Public\\RenderTarget.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Public\\RenderTarget.h",
+              "RelativeToolTip": "Engine\\Public\\RenderTarget.h",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-16T23:56:07.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Target_Manager.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\Target_Manager.cpp",
+              "RelativeDocumentMoniker": "Engine\\Private\\Target_Manager.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\Target_Manager.cpp",
+              "RelativeToolTip": "Engine\\Private\\Target_Manager.cpp",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAGkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T00:01:03.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "State_WhiteZetsu_HitDown.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_WhiteZetsu_HitDown.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_WhiteZetsu_HitDown.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_WhiteZetsu_HitDown.cpp",
+              "RelativeToolTip": "Client\\Private\\State_WhiteZetsu_HitDown.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvysAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T19:46:56.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "State_Custom_Slash.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Slash.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_Slash.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Slash.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_Slash.cpp",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T20:11:23.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "State_Custom_DoubleHandPunch.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_DoubleHandPunch.h",
+              "RelativeDocumentMoniker": "Client\\Public\\State_Custom_DoubleHandPunch.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_DoubleHandPunch.h",
+              "RelativeToolTip": "Client\\Public\\State_Custom_DoubleHandPunch.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-15T20:38:10.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "State_WhiteZetsu_Fall.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_WhiteZetsu_Fall.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_WhiteZetsu_Fall.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_WhiteZetsu_Fall.cpp",
+              "RelativeToolTip": "Client\\Private\\State_WhiteZetsu_Fall.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvx0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T20:52:19.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "State_Custom_PunchLeft.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_PunchLeft.h",
+              "RelativeDocumentMoniker": "Client\\Public\\State_Custom_PunchLeft.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_PunchLeft.h",
+              "RelativeToolTip": "Client\\Public\\State_Custom_PunchLeft.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-15T20:11:31.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "State_Custom_Jump.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_Jump.h",
+              "RelativeDocumentMoniker": "Client\\Public\\State_Custom_Jump.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_Jump.h",
+              "RelativeToolTip": "Client\\Public\\State_Custom_Jump.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvx0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-15T20:21:52.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "State_Custom_Slash.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_Slash.h",
+              "RelativeDocumentMoniker": "Client\\Public\\State_Custom_Slash.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_Slash.h",
+              "RelativeToolTip": "Client\\Public\\State_Custom_Slash.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-15T20:11:18.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "State_Custom_DoubleSlash.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_DoubleSlash.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_DoubleSlash.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_DoubleSlash.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_DoubleSlash.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T18:23:56.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "State_Custom_DoubleSlash.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_DoubleSlash.h",
+              "RelativeDocumentMoniker": "Client\\Public\\State_Custom_DoubleSlash.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_DoubleSlash.h",
+              "RelativeToolTip": "Client\\Public\\State_Custom_DoubleSlash.h",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-15T18:23:50.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "State_WhiteZetsu_Hit2.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_WhiteZetsu_Hit2.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_WhiteZetsu_Hit2.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_WhiteZetsu_Hit2.cpp",
+              "RelativeToolTip": "Client\\Private\\State_WhiteZetsu_Hit2.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvx8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T19:47:50.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "State_WhiteZetsu_FlyGround.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_WhiteZetsu_FlyGround.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_WhiteZetsu_FlyGround.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_WhiteZetsu_FlyGround.cpp",
+              "RelativeToolTip": "Client\\Private\\State_WhiteZetsu_FlyGround.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T19:47:57.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "State_WhiteZetsu_FlyAway.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_WhiteZetsu_FlyAway.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_WhiteZetsu_FlyAway.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_WhiteZetsu_FlyAway.cpp",
+              "RelativeToolTip": "Client\\Private\\State_WhiteZetsu_FlyAway.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T19:48:03.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "WhiteZetsu.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\WhiteZetsu.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\WhiteZetsu.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\WhiteZetsu.cpp",
+              "RelativeToolTip": "Client\\Private\\WhiteZetsu.cpp",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAI4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T19:40:12.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "WhiteZetsu.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\WhiteZetsu.h",
+              "RelativeDocumentMoniker": "Client\\Public\\WhiteZetsu.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\WhiteZetsu.h",
+              "RelativeToolTip": "Client\\Public\\WhiteZetsu.h",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvzcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-15T19:40:34.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "State_Custom_PunchRight.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_PunchRight.h",
+              "RelativeDocumentMoniker": "Client\\Public\\State_Custom_PunchRight.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_PunchRight.h",
+              "RelativeToolTip": "Client\\Public\\State_Custom_PunchRight.h",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwCkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-15T18:23:57.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "State_Custom_GroundPunch.h",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_GroundPunch.h",
+              "RelativeDocumentMoniker": "Client\\Public\\State_Custom_GroundPunch.h",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Public\\State_Custom_GroundPunch.h",
+              "RelativeToolTip": "Client\\Public\\State_Custom_GroundPunch.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-15T18:33:09.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "Animation.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\Animation.cpp",
+              "RelativeDocumentMoniker": "Engine\\Private\\Animation.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Engine\\Private\\Animation.cpp",
+              "RelativeToolTip": "Engine\\Private\\Animation.cpp",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T19:23:10.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "State_Custom_Idle.cpp",
+              "DocumentMoniker": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Idle.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\State_Custom_Idle.cpp",
+              "ToolTip": "D:\\GitHubProjects\\Dx11_Naruto_ShinobiStriker_Complete\\Naruto_ShinobiStriker\\Client\\Private\\State_Custom_Idle.cpp",
+              "RelativeToolTip": "Client\\Private\\State_Custom_Idle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T18:37:51.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
